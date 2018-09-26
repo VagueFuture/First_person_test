@@ -1,0 +1,991 @@
+﻿Log file open, 09/26/18 12:09:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: First_person_test
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.552239
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.519s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.043s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.26-05.09.42:397][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-05.09.42:397][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.26-05.09.42:553][  0]LogHAL: Display: Platform has ~ 12 GB [12765364224 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.26-05.09.42:553][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.26-05.09.42:568][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.26-05.09.42:643][  0]LogInit: Computer: DESKTOP-0QK8V7C
+[2018.09.26-05.09.42:643][  0]LogInit: User: VagueFuture
+[2018.09.26-05.09.42:643][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.26-05.09.42:643][  0]LogInit: High frequency timer resolution =2.249998 MHz
+[2018.09.26-05.09.42:644][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.09.26-05.09.42:644][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.26-05.09.42:644][  0]LogMemory: Process Physical Memory: 101.23 MB used, 101.23 MB peak
+[2018.09.26-05.09.42:644][  0]LogMemory: Process Virtual Memory: 92.13 MB used, 92.13 MB peak
+[2018.09.26-05.09.42:644][  0]LogMemory: Physical Memory: 1757.11 MB used,  10416.89 MB free, 12174.00 MB total
+[2018.09.26-05.09.42:644][  0]LogMemory: Virtual Memory: 4628.36 MB used,  10416.89 MB free, 134217728.00 MB total
+[2018.09.26-05.09.43:925][  0]LogInit: Using OS detected language (ru-RU).
+[2018.09.26-05.09.43:925][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.09.26-05.09.43:977][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.09.26-05.09.44:201][  0]LogStreaming: Display: Took  0.256s to InitEngineTextLocalization.
+[2018.09.26-05.09.44:216][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.26-05.09.45:726][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.26-05.09.45:726][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.26-05.09.58:779][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.09.26-05.09.58:779][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.26-05.09.59:078][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.09.26-05.09.59:078][  0]LogD3D11RHI:       2010/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.26-05.10.00:154][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.09.26-05.10.00:154][  0]LogD3D11RHI:       128/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.26-05.10.00:160][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.26-05.10.00:160][  0]LogD3D11RHI:       0/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.26-05.10.00:160][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.26-05.10.00:936][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.26-05.10.00:936][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.09.26-05.10.00:968][  0]LogWindows: EnumDisplayDevices:
+[2018.09.26-05.10.00:969][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.09.26-05.10.00:970][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.26-05.10.00:970][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.26-05.10.00:971][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.26-05.10.00:971][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.09.26-05.10.00:971][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.26-05.10.00:971][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.26-05.10.00:971][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.09.26-05.10.01:757][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.26-05.10.03:752][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.26-05.10.04:175][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../Unreal Projects/First_person_test/Intermediate/Shaders/WorkingDirectory/7648/).
+[2018.09.26-05.10.04:176][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vague_Future/AppData/Local/Temp/UnrealShaderWorkingDir/5699B843463F854901CF308F4CF8B429/'.
+[2018.09.26-05.10.06:175][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.26-05.10.06:223][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.26-05.10.06:277][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.26-05.10.06:355][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.26-05.10.06:459][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.26-05.10.06:552][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.26-05.10.06:592][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.26-05.10.06:616][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.26-05.10.06:654][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:818][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.10.06:861][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.26-05.10.07:190][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.26-05.10.07:190][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.26-05.10.07:259][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.26-05.10.07:259][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.26-05.10.07:299][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.26-05.10.07:322][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.26-05.10.07:371][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.26-05.10.07:412][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.26-05.10.07:439][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.26-05.10.07:439][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.26-05.10.08:581][  0]LogXGEController: Cleaning working directory: C:/Users/Vague_Future/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.26-05.10.08:581][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.26-05.10.08:582][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.26-05.10.08:582][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.26-05.10.13:690][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.26-05.10.14:177][  0]LogDerivedDataCache: Loaded boot cache 0.49s 71MB C:/Users/Vague_Future/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.26-05.10.14:178][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Vague_Future/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.26-05.10.14:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/First_person_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.26-05.10.14:178][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.26-05.10.14:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/First_person_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.26-05.10.14:178][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.26-05.10.14:319][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.26-05.10.14:333][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vague_Future/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.26-05.10.14:333][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.26-05.10.14:333][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.26-05.10.14:421][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.26-05.10.14:503][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.26-05.10.14:615][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.26-05.10.15:594][  0]LogAssetRegistry: FAssetRegistry took 0.0544 seconds to start up
+[2018.09.26-05.10.20:157][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-05.10.23:102][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.26-05.10.23:698][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.26-05.10.23:698][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.26-05.10.23:707][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.26-05.10.23:708][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.26-05.10.24:266][  0]LogNetVersion: First_person_test 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2245846534)
+[2018.09.26-05.10.31:485][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.237965 seconds
+[2018.09.26-05.10.31:518][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.26-05.10.31:518][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.26-05.10.31:518][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.26-05.10.49:662][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.26-05.10.49:765][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.26-05.10.51:514][  0]SourceControl: Source control is disabled
+[2018.09.26-05.10.54:899][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.26-05.10.55:210][  0]LogOcInput: OculusInput pre-init called
+[2018.09.26-05.10.56:326][  0]LogEngine: Initializing Engine...
+[2018.09.26-05.11.01:583][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.09.26-05.11.01:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.09.26-05.11.01:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-05.11.01:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.26-05.11.01:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-05.11.02:652][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.26-05.11.03:170][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.26-05.11.03:455][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.11.03:786][  0]LogInit: FAudioDevice initialized.
+[2018.09.26-05.11.03:787][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.26-05.11.03:942][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Vague_Future/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.26-05.11.03:947][  0]LogInit: Texture streaming: Enabled
+[2018.09.26-05.11.04:128][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.26-05.11.04:187][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.26-05.11.04:249][  0]LogInit: Transaction tracking system initialized
+[2018.09.26-05.11.04:754][  0]BlueprintLog: New page: Editor Load
+[2018.09.26-05.11.06:533][  0]LocalizationService: Localization service is disabled
+[2018.09.26-05.11.11:734][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Content/' took 0.02s
+[2018.09.26-05.11.11:734][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.26-05.11.11:744][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.26-05.11.11:763][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.26-05.11.11:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.26-05.11.11:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-05.11.11:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.26-05.11.11:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-05.11.15:269][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-05.11.15:369][  0]LightingResults: New page: Lighting Build
+[2018.09.26-05.11.15:532][  0]MapCheck: New page: Map Check
+[2018.09.26-05.11.15:532][  0]LightingResults: New page: Lighting Build
+[2018.09.26-05.11.17:558][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.26-05.11.18:423][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-05.11.18:584][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-05.11.18:659][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74,275ms to complete.
+[2018.09.26-05.11.18:659][  0]LogFileHelpers: Loading map 'Template_Default' took 3.410
+[2018.09.26-05.11.20:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.11.20:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.11.20:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.11.20:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.11.21:025][  0]LogCollectionManager: Loaded 0 collections in 0.002648 seconds
+[2018.09.26-05.11.21:156][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Saved/Collections/' took 0.01s
+[2018.09.26-05.11.21:156][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Content/Developers/VagueFuture/Collections/' took 0.01s
+[2018.09.26-05.11.21:156][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Content/Collections/' took 0.01s
+[2018.09.26-05.11.21:156][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.26-05.11.21:181][  0]LogContentBrowser: Native class hierarchy populated in 0.0241 seconds. Added 2572 classes and 603 folders.
+[2018.09.26-05.11.21:277][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.09.26-05.11.22:561][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.09.26-05.11.22:635][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.26-05.11.24:609][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.09.26-05.11.24:610][  0]LogLoad: (Engine Initialization) Total time: 127.45 seconds
+[2018.09.26-05.11.24:610][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.26-05.11.24:964][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.26-05.11.25:046][  0]LogSlate: Took 0.029896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.26-05.11.25:072][  0]LogSlate: Took 0.021763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.26-05.11.25:116][  0]LogSlate: Took 0.025849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.26-05.11.26:012][  0]LogSlate: Took 0.021200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-05.11.26:160][  1]LogRenderer: Reallocating scene render targets to support 508x336 Format 10 NumSamples 1 (Frame:1).
+[2018.09.26-05.11.26:976][  3]LogAssetRegistry: Asset discovery search completed in 71.4060 seconds
+[2018.09.26-05.11.26:977][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.26-05.11.26:977][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2018.09.26-05.11.32:905][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.11.40:370][778]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-05.11.40:380][778]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/anim/ships/ship_1/uvorot/Ship_1_uvorot_Anim.Ship_1_uvorot_Anim
+[2018.09.26-05.11.41:102][778]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.26-05.11.42:193][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.26-05.11.42:247][778]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.09.26-05.11.42:928][778]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.26-05.11.44:915][778]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.26-05.11.45:013][779]LogRenderer: Reallocating scene render targets to support 612x368 Format 10 NumSamples 1 (Frame:1).
+[2018.09.26-05.11.45:047][779]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.26-05.11.47:214][898]LogSlate: Window 'Ship_1_uvorot_Anim' being destroyed
+[2018.09.26-05.11.47:221][898]LogSlate: Window 'Ship_1_uvorot_Anim' being destroyed
+[2018.09.26-05.11.51:486][ 85]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/ships/ship_1/ship_1_animBP.ship_1_animBP
+[2018.09.26-05.11.51:535][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.26-05.11.52:886][ 85]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.09.26-05.11.54:251][ 85]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.26-05.11.54:842][ 85]LogSlate: Took 0.013152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.26-05.11.55:490][ 86]LogSlate: Took 0.012051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.26-05.12.18:187][332]BlueprintLog: New page: Compile ship_1_animBP
+[2018.09.26-05.12.24:730][695]LogHttp: Warning: 000002C096716200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.12.24:731][695]LogHttp: Warning: 000002C096716200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.12.24:731][695]LogHttp: Warning: 000002C096716200: libcurl info message cache 1 (Closing connection 0)
+[2018.09.26-05.12.35:343][327]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.09.26-05.12.40:506][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.12.43:784][790]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.12.43:792][790]LogAssetEditorManager: Opening Asset editor for World /Game/ships_map.ships_map
+[2018.09.26-05.12.45:939][790]LogSlate: Window 'Save Content' being destroyed
+[2018.09.26-05.12.46:080][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/ships/ship_1/ship_1_animBP" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/ships/ship_1/ship_1_animBP.uasset" SILENT=true
+[2018.09.26-05.12.46:582][790]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_1_animBP0E0FE8AC45C152B76F285DB9D2ADFC75.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/ships/ship_1/ship_1_animBP.uasset'
+[2018.09.26-05.12.46:631][790]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/First_person_test/Content/ships_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-05.12.46:631][790]LightingResults: New page: Lighting Build
+[2018.09.26-05.12.46:632][790]LoadErrors: New page: Loading map: ships_map.umap
+[2018.09.26-05.12.46:633][790]MapCheck: New page: Map Check
+[2018.09.26-05.12.46:633][790]LightingResults: New page: Lighting Build
+[2018.09.26-05.12.46:787][790]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-05.12.46:860][790]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-05.12.46:920][790]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60,317ms to complete.
+[2018.09.26-05.12.46:921][790]LogFileHelpers: Loading map 'ships_map' took 0.291
+[2018.09.26-05.12.49:413][932]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.09.26-05.12.49:841][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.12.58:531][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.12.59:728][506]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.12.59:791][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.12.59:839][506]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:12:59)
+[2018.09.26-05.12.59:839][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.12.59:859][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019842s)
+[2018.09.26-05.12.59:860][506]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.12.59:860][506]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.09.26-05.12.59:860][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.020813s)
+[2018.09.26-05.12.59:901][506]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.12.59:952][506]LogInit: FAudioDevice initialized.
+[2018.09.26-05.12.59:983][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.13.00:023][506]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.13.00:025][506]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.13.00
+[2018.09.26-05.13.00:028][506]LogWorld: Bringing up level for play took: 0.003623
+[2018.09.26-05.13.00:098][506]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2018.09.26-05.13.00:125][506]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,1
+[2018.09.26-05.13.14:221][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.13.14:259][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.13.14:310][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.13.14:330][346]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.26-05.13.15:313][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.26-05.13.17:851][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.13.25:988][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.13.26:010][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.13.26:010][ 23]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:13:26)
+[2018.09.26-05.13.26:010][ 23]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.13.26:011][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001430s)
+[2018.09.26-05.13.26:012][ 23]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.13.26:012][ 23]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2018.09.26-05.13.26:012][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.002213s)
+[2018.09.26-05.13.26:050][ 23]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.13.26:099][ 23]LogInit: FAudioDevice initialized.
+[2018.09.26-05.13.26:131][ 23]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.13.26:132][ 23]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.13.26
+[2018.09.26-05.13.26:133][ 23]LogWorld: Bringing up level for play took: 0.001168
+[2018.09.26-05.13.26:145][ 23]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,12
+[2018.09.26-05.14.14:335][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.14.14:373][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.14.14:415][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.14.14:450][913]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.26-05.14.24:772][533]LogHttp: Warning: 000002C0D6451800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.14.24:772][533]LogHttp: Warning: 000002C0D6451800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.14.24:772][533]LogHttp: Warning: 000002C0D6451800: libcurl info message cache 1 (Closing connection 1)
+[2018.09.26-05.14.57:083][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.14.58:797][573]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.14.58:820][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.14.58:820][573]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:14:58)
+[2018.09.26-05.14.58:820][573]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.14.58:821][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001331s)
+[2018.09.26-05.14.58:822][573]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.14.58:822][573]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.09.26-05.14.58:822][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.002477s)
+[2018.09.26-05.14.58:859][573]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.14.58:907][573]LogInit: FAudioDevice initialized.
+[2018.09.26-05.14.58:907][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.14.58:936][573]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.14.58:937][573]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.14.58
+[2018.09.26-05.14.58:938][573]LogWorld: Bringing up level for play took: 0.001192
+[2018.09.26-05.14.58:951][573]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,074
+[2018.09.26-05.15.36:899][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.15.36:936][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.15.36:987][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.15.37:006][849]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.26-05.15.38:640][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.15.40:422][ 49]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/anim/ships/ship_1/Ship_1_player.Ship_1_player
+[2018.09.26-05.15.45:455][304]LogRenderer: Reallocating scene render targets to support 776x464 Format 10 NumSamples 1 (Frame:1).
+[2018.09.26-05.16.06:370][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.16.24:792][615]LogHttp: Warning: 000002C11B0F2340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.16.24:792][615]LogHttp: Warning: 000002C11B0F2340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.16.24:792][615]LogHttp: Warning: 000002C11B0F2340: libcurl info message cache 1 (Closing connection 2)
+[2018.09.26-05.18.24:818][816]LogHttp: Warning: 000002C11B0F3380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.18.24:818][816]LogHttp: Warning: 000002C11B0F3380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.18.24:818][816]LogHttp: Warning: 000002C11B0F3380: libcurl info message cache 1 (Closing connection 3)
+[2018.09.26-05.20.24:843][ 17]LogHttp: Warning: 000002C11B0F2340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.20.24:843][ 17]LogHttp: Warning: 000002C11B0F2340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.20.24:844][ 17]LogHttp: Warning: 000002C11B0F2340: libcurl info message cache 1 (Closing connection 4)
+[2018.09.26-05.21.33:008][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.21.34:391][188]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.21.34:414][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.21.34:414][188]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:21:34)
+[2018.09.26-05.21.34:414][188]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.21.34:416][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002156s)
+[2018.09.26-05.21.34:417][188]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.21.34:418][188]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2018.09.26-05.21.34:418][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.003524s)
+[2018.09.26-05.21.34:459][188]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.21.34:508][188]LogInit: FAudioDevice initialized.
+[2018.09.26-05.21.34:508][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.21.34:541][188]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.21.34:544][188]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.21.34
+[2018.09.26-05.21.34:544][188]LogWorld: Bringing up level for play took: 0.001170
+[2018.09.26-05.21.34:556][188]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,469
+[2018.09.26-05.22.05:518][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.22.05:561][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.22.05:612][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.22.05:630][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.09.26-05.22.08:392][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.22.09:670][283]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.22.09:692][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.22.09:692][283]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:22:09)
+[2018.09.26-05.22.09:692][283]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.22.09:693][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001432s)
+[2018.09.26-05.22.09:694][283]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.22.09:694][283]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.09.26-05.22.09:694][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.002249s)
+[2018.09.26-05.22.09:730][283]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.22.09:779][283]LogInit: FAudioDevice initialized.
+[2018.09.26-05.22.09:779][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.22.09:814][283]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.22.09:816][283]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.22.09
+[2018.09.26-05.22.09:816][283]LogWorld: Bringing up level for play took: 0.001194
+[2018.09.26-05.22.09:829][283]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,804
+[2018.09.26-05.22.24:878][185]LogHttp: Warning: 000002C11B453C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.22.24:878][185]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.22.24:878][185]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 1 (Closing connection 5)
+[2018.09.26-05.24.24:924][384]LogHttp: Warning: 000002C11B4539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.24.24:924][384]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.24.24:924][384]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 1 (Closing connection 6)
+[2018.09.26-05.26.24:957][582]LogHttp: Warning: 000002C11B453880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.26.24:957][582]LogHttp: Warning: 000002C11B453880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.26.24:957][582]LogHttp: Warning: 000002C11B453880: libcurl info message cache 1 (Closing connection 7)
+[2018.09.26-05.28.25:004][781]LogHttp: Warning: 000002C11B4539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.28.25:005][781]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.28.25:005][781]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 1 (Closing connection 8)
+[2018.09.26-05.30.25:048][980]LogHttp: Warning: 000002C11B450B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.30.25:048][980]LogHttp: Warning: 000002C11B450B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.30.25:048][980]LogHttp: Warning: 000002C11B450B80: libcurl info message cache 1 (Closing connection 9)
+[2018.09.26-05.32.25:077][178]LogHttp: Warning: 000002C11B453B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.32.25:077][178]LogHttp: Warning: 000002C11B453B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.32.25:077][178]LogHttp: Warning: 000002C11B453B00: libcurl info message cache 1 (Closing connection 10)
+[2018.09.26-05.34.25:115][376]LogHttp: Warning: 000002C11B450E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.34.25:115][376]LogHttp: Warning: 000002C11B450E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.34.25:115][376]LogHttp: Warning: 000002C11B450E00: libcurl info message cache 1 (Closing connection 11)
+[2018.09.26-05.36.25:154][574]LogHttp: Warning: 000002C11B453C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.36.25:154][574]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.36.25:154][574]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 1 (Closing connection 12)
+[2018.09.26-05.38.25:197][773]LogHttp: Warning: 000002C11B450E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.38.25:197][773]LogHttp: Warning: 000002C11B450E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.38.25:197][773]LogHttp: Warning: 000002C11B450E00: libcurl info message cache 1 (Closing connection 13)
+[2018.09.26-05.40.25:232][971]LogHttp: Warning: 000002C11B453C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.40.25:232][971]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.40.25:232][971]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 1 (Closing connection 14)
+[2018.09.26-05.42.25:249][168]LogHttp: Warning: 000002C11B453D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.42.25:249][168]LogHttp: Warning: 000002C11B453D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.42.25:249][168]LogHttp: Warning: 000002C11B453D80: libcurl info message cache 1 (Closing connection 15)
+[2018.09.26-05.44.25:269][366]LogHttp: Warning: 000002C11B453B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.44.25:269][366]LogHttp: Warning: 000002C11B453B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.44.25:269][366]LogHttp: Warning: 000002C11B453B00: libcurl info message cache 1 (Closing connection 16)
+[2018.09.26-05.46.25:304][566]LogHttp: Warning: 000002C11B4539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.46.25:304][566]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.46.25:304][566]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 1 (Closing connection 17)
+[2018.09.26-05.48.25:334][764]LogHttp: Warning: 000002C11B453B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.48.25:334][764]LogHttp: Warning: 000002C11B453B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.48.25:334][764]LogHttp: Warning: 000002C11B453B00: libcurl info message cache 1 (Closing connection 18)
+[2018.09.26-05.50.25:374][963]LogHttp: Warning: 000002C11B453880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.50.25:375][963]LogHttp: Warning: 000002C11B453880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.50.25:375][963]LogHttp: Warning: 000002C11B453880: libcurl info message cache 1 (Closing connection 19)
+[2018.09.26-05.52.25:403][161]LogHttp: Warning: 000002C11B4539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.52.25:403][161]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.52.25:403][161]LogHttp: Warning: 000002C11B4539C0: libcurl info message cache 1 (Closing connection 20)
+[2018.09.26-05.54.25:447][360]LogHttp: Warning: 000002C11B453C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.54.25:447][360]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.54.25:447][360]LogHttp: Warning: 000002C11B453C40: libcurl info message cache 1 (Closing connection 21)
+[2018.09.26-05.55.44:708][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.55.44:753][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.55.44:803][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.55.44:822][112]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.26-05.55.46:575][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.55.55:265][499]LogAIModule: Creating AISystem for world test_anim_sqare
+[2018.09.26-05.55.55:358][499]LogAssetEditorManager: Opening Asset editor for World /Game/test_anim_sqare.test_anim_sqare
+[2018.09.26-05.55.57:244][499]LogSlate: Window 'Save Content' being destroyed
+[2018.09.26-05.55.57:401][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Content/ships_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.26-05.55.57:517][499]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map19893B7C409DA967B83E0981B74E6B9C.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/ships_map.umap'
+[2018.09.26-05.55.57:558][499]LogFileHelpers: Saving map 'ships_map' took 0.234
+[2018.09.26-05.55.57:559][499]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/First_person_test/Content/test_anim_sqare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-05.55.57:560][499]LightingResults: New page: Lighting Build
+[2018.09.26-05.55.57:560][499]LoadErrors: New page: Loading map: test_anim_sqare.umap
+[2018.09.26-05.55.57:561][499]MapCheck: New page: Map Check
+[2018.09.26-05.55.57:561][499]LightingResults: New page: Lighting Build
+[2018.09.26-05.55.57:704][499]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-05.55.57:778][499]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-05.55.57:851][499]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73,95ms to complete.
+[2018.09.26-05.55.57:851][499]LogFileHelpers: Loading map 'test_anim_sqare' took 0.293
+[2018.09.26-05.56.00:508][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.56.00:533][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.56.00:534][650]PIE: New page: PIE session: test_anim_sqare (26 сент. 2018 г., 19:56:00)
+[2018.09.26-05.56.00:534][650]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_test_anim_sqare
+[2018.09.26-05.56.00:540][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006339s)
+[2018.09.26-05.56.00:541][650]LogAIModule: Creating AISystem for world test_anim_sqare
+[2018.09.26-05.56.00:541][650]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.09.26-05.56.00:541][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test_anim_sqare.test_anim_sqare to /Game/UEDPIE_0_test_anim_sqare.test_anim_sqare (0.007790s)
+[2018.09.26-05.56.00:582][650]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.56.00:631][650]LogInit: FAudioDevice initialized.
+[2018.09.26-05.56.00:661][650]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.56.00:665][650]LogWorld: Bringing World /Game/UEDPIE_0_test_anim_sqare.test_anim_sqare up for play (max tick rate 60) at 2018.09.26-12.56.00
+[2018.09.26-05.56.00:796][650]LogWorld: Bringing up level for play took: 0.134276
+[2018.09.26-05.56.00:812][650]PIE: Play in editor start time for /Game/UEDPIE_0_test_anim_sqare -0,212
+[2018.09.26-05.56.07:042][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.56.07:089][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.56.07:156][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.56.07:194][  4]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.26-05.56.10:255][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.56.11:869][284]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.56.11:895][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.56.11:895][284]PIE: New page: PIE session: test_anim_sqare (26 сент. 2018 г., 19:56:11)
+[2018.09.26-05.56.11:895][284]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_test_anim_sqare
+[2018.09.26-05.56.11:900][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005586s)
+[2018.09.26-05.56.11:901][284]LogAIModule: Creating AISystem for world test_anim_sqare
+[2018.09.26-05.56.11:902][284]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2018.09.26-05.56.11:902][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test_anim_sqare.test_anim_sqare to /Game/UEDPIE_0_test_anim_sqare.test_anim_sqare (0.006887s)
+[2018.09.26-05.56.11:942][284]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.56.11:989][284]LogInit: FAudioDevice initialized.
+[2018.09.26-05.56.11:990][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-05.56.12:018][284]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.56.12:022][284]LogWorld: Bringing World /Game/UEDPIE_0_test_anim_sqare.test_anim_sqare up for play (max tick rate 60) at 2018.09.26-12.56.12
+[2018.09.26-05.56.12:023][284]LogWorld: Bringing up level for play took: 0.003618
+[2018.09.26-05.56.12:035][284]PIE: Play in editor start time for /Game/UEDPIE_0_test_anim_sqare 1,01
+[2018.09.26-05.56.14:869][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.56.14:904][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.56.14:946][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.56.14:984][453]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.26-05.56.18:223][647]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.56.18:248][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.56.18:248][647]PIE: New page: PIE session: test_anim_sqare (26 сент. 2018 г., 19:56:18)
+[2018.09.26-05.56.18:248][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_test_anim_sqare
+[2018.09.26-05.56.18:254][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005142s)
+[2018.09.26-05.56.18:255][647]LogAIModule: Creating AISystem for world test_anim_sqare
+[2018.09.26-05.56.18:255][647]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2018.09.26-05.56.18:255][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test_anim_sqare.test_anim_sqare to /Game/UEDPIE_0_test_anim_sqare.test_anim_sqare (0.006520s)
+[2018.09.26-05.56.18:294][647]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.56.18:344][647]LogInit: FAudioDevice initialized.
+[2018.09.26-05.56.18:375][647]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.56.18:379][647]LogWorld: Bringing World /Game/UEDPIE_0_test_anim_sqare.test_anim_sqare up for play (max tick rate 60) at 2018.09.26-12.56.18
+[2018.09.26-05.56.18:380][647]LogWorld: Bringing up level for play took: 0.004371
+[2018.09.26-05.56.18:393][647]PIE: Play in editor start time for /Game/UEDPIE_0_test_anim_sqare -0,631
+[2018.09.26-05.56.25:496][ 72]LogHttp: Warning: 000002C1280C74C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.56.25:496][ 72]LogHttp: Warning: 000002C1280C74C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.56.25:496][ 72]LogHttp: Warning: 000002C1280C74C0: libcurl info message cache 1 (Closing connection 22)
+[2018.09.26-05.56.29:398][298]LogBlueprintUserMessages: [player_character_800] 9
+[2018.09.26-05.56.29:557][308]LogBlueprintUserMessages: [player_character_800] 8
+[2018.09.26-05.56.29:691][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.56.29:728][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.56.29:769][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.56.29:810][317]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.26-05.56.35:627][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.56.35:803][675]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.56.35:811][675]LogAssetEditorManager: Opening Asset editor for World /Game/ships_map.ships_map
+[2018.09.26-05.56.35:848][675]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/First_person_test/Content/ships_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-05.56.35:848][675]LightingResults: New page: Lighting Build
+[2018.09.26-05.56.35:848][675]LoadErrors: New page: Loading map: ships_map.umap
+[2018.09.26-05.56.35:850][675]MapCheck: New page: Map Check
+[2018.09.26-05.56.35:850][675]LightingResults: New page: Lighting Build
+[2018.09.26-05.56.35:956][675]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-05.56.36:027][675]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-05.56.36:099][675]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71,147ms to complete.
+[2018.09.26-05.56.36:099][675]LogFileHelpers: Loading map 'ships_map' took 0.252
+[2018.09.26-05.57.06:892][517]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.57.06:919][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.57.06:919][517]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:57:06)
+[2018.09.26-05.57.06:919][517]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.57.06:921][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001412s)
+[2018.09.26-05.57.06:921][517]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.57.06:921][517]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.09.26-05.57.06:921][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.002192s)
+[2018.09.26-05.57.06:962][517]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.57.07:008][517]LogInit: FAudioDevice initialized.
+[2018.09.26-05.57.07:043][517]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.57.07:045][517]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.57.07
+[2018.09.26-05.57.07:045][517]LogWorld: Bringing up level for play took: 0.001154
+[2018.09.26-05.57.07:058][517]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,033
+[2018.09.26-05.58.25:518][222]LogHttp: Warning: 000002C1280C42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-05.58.25:518][222]LogHttp: Warning: 000002C1280C42C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-05.58.25:518][222]LogHttp: Warning: 000002C1280C42C0: libcurl info message cache 1 (Closing connection 23)
+[2018.09.26-05.58.34:798][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.58.34:834][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.58.34:873][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.58.34:903][780]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.26-05.58.37:754][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.59.23:257][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.59.23:388][532]BlueprintLog: New page: Compile Ship_1_player
+[2018.09.26-05.59.29:798][866]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.59.29:827][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.59.29:827][866]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:59:29)
+[2018.09.26-05.59.29:827][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.59.29:829][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001913s)
+[2018.09.26-05.59.29:830][866]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.59.29:830][866]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.09.26-05.59.29:830][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.002995s)
+[2018.09.26-05.59.29:871][866]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.59.29:918][866]LogInit: FAudioDevice initialized.
+[2018.09.26-05.59.29:947][866]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.59.29:948][866]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.59.29
+[2018.09.26-05.59.29:949][866]LogWorld: Bringing up level for play took: 0.001249
+[2018.09.26-05.59.29:962][866]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,937
+[2018.09.26-05.59.32:933][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.59.32:971][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-05.59.33:013][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-05.59.33:103][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.26-05.59.36:290][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-05.59.38:914][344]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-05.59.38:936][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-05.59.38:936][344]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 19:59:38)
+[2018.09.26-05.59.38:936][344]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-05.59.38:938][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001514s)
+[2018.09.26-05.59.38:938][344]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-05.59.38:938][344]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.09.26-05.59.38:938][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.002340s)
+[2018.09.26-05.59.38:980][344]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-05.59.39:030][344]LogInit: FAudioDevice initialized.
+[2018.09.26-05.59.39:059][344]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-05.59.39:061][344]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-12.59.39
+[2018.09.26-05.59.39:061][344]LogWorld: Bringing up level for play took: 0.001224
+[2018.09.26-05.59.39:074][344]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,049
+[2018.09.26-06.00.00:771][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.00.00:811][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-06.00.00:857][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.00.00:875][644]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.09.26-06.00.04:182][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-06.00.09:229][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.00.09:363][ 18]BlueprintLog: New page: Compile Ship_1_player
+[2018.09.26-06.00.10:650][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/ships/ship_1/Ship_1_player" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/ships/ship_1/Ship_1_player.uasset" SILENT=true
+[2018.09.26-06.00.10:785][ 72]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Ship_1_player6E1CC17A49965C34243D9283820A69E2.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/ships/ship_1/Ship_1_player.uasset'
+[2018.09.26-06.00.12:308][163]LogSlate: Window 'Ship_1_player' being destroyed
+[2018.09.26-06.00.12:311][163]LogSlate: Window 'Ship_1_player' being destroyed
+[2018.09.26-06.00.13:228][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.09.26-06.00.14:263][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-06.00.15:421][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-06.00.15:443][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.00.15:443][327]PIE: New page: PIE session: ships_map (26 сент. 2018 г., 20:00:15)
+[2018.09.26-06.00.15:443][327]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.09.26-06.00.15:445][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001484s)
+[2018.09.26-06.00.15:446][327]LogAIModule: Creating AISystem for world ships_map
+[2018.09.26-06.00.15:446][327]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.09.26-06.00.15:446][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.002330s)
+[2018.09.26-06.00.15:488][327]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-06.00.15:537][327]LogInit: FAudioDevice initialized.
+[2018.09.26-06.00.15:537][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-06.00.15:568][327]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.00.15:569][327]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.09.26-13.00.15
+[2018.09.26-06.00.15:570][327]LogWorld: Bringing up level for play took: 0.000934
+[2018.09.26-06.00.15:582][327]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,557
+[2018.09.26-06.00.25:543][924]LogHttp: Warning: 000002C11CA439C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.00.25:543][924]LogHttp: Warning: 000002C11CA439C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.00.25:543][924]LogHttp: Warning: 000002C11CA439C0: libcurl info message cache 1 (Closing connection 24)
+[2018.09.26-06.02.05:877][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.02.05:912][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-06.02.05:949][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.02.05:979][942]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.09.26-06.02.07:508][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.02.09:201][110]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/anim/ships/ship_1/hit/Ship_1_damage_Anim.Ship_1_damage_Anim
+[2018.09.26-06.02.09:218][110]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.26-06.02.09:264][110]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.26-06.02.09:678][110]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.26-06.02.25:592][ 61]LogHttp: Warning: 000002C0D765DBC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.02.25:592][ 61]LogHttp: Warning: 000002C0D765DBC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.02.25:592][ 61]LogHttp: Warning: 000002C0D765DBC0: libcurl info message cache 1 (Closing connection 25)
+[2018.09.26-06.04.12:765][486]LogSlate: Window 'Ship_1_damage_Anim' being destroyed
+[2018.09.26-06.04.12:769][486]LogSlate: Window 'Ship_1_damage_Anim' being destroyed
+[2018.09.26-06.04.16:846][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.04.25:636][243]LogHttp: Warning: 000002C0D6946FC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.04.25:636][243]LogHttp: Warning: 000002C0D6946FC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.04.25:636][243]LogHttp: Warning: 000002C0D6946FC0: libcurl info message cache 1 (Closing connection 26)
+[2018.09.26-06.04.35:396][818]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/anim/ships/ship_1/idle/Ship_1_idle_Anim.Ship_1_idle_Anim
+[2018.09.26-06.04.35:413][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.26-06.04.35:459][818]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.26-06.04.35:856][818]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.26-06.04.40:334][ 79]LogSlate: Window 'Ship_1_idle_Anim' being destroyed
+[2018.09.26-06.04.40:340][ 79]LogSlate: Window 'Ship_1_idle_Anim' being destroyed
+[2018.09.26-06.04.42:210][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.04.44:294][297]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/anim/ships/ship_1/hit/Ship_1_damage_Anim.Ship_1_damage_Anim
+[2018.09.26-06.04.44:312][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.26-06.04.44:357][297]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.26-06.04.44:777][297]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.26-06.06.25:666][313]LogHttp: Warning: 000002C0D765E340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.06.25:666][313]LogHttp: Warning: 000002C0D765E340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.06.25:666][313]LogHttp: Warning: 000002C0D765E340: libcurl info message cache 1 (Closing connection 27)
+[2018.09.26-06.06.59:200][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-06.08.25:718][472]LogHttp: Warning: 000002C0D7E407C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.08.25:718][472]LogHttp: Warning: 000002C0D7E407C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.08.25:718][472]LogHttp: Warning: 000002C0D7E407C0: libcurl info message cache 1 (Closing connection 28)
+[2018.09.26-06.10.19:483][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.09.26-06.10.19:573][155]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map_Auto1C5B2B15341291B109E2182A9C719CF05.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto1.umap'
+[2018.09.26-06.10.19:576][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ships_map' took 0.196
+[2018.09.26-06.10.19:576][155]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.196
+[2018.09.26-06.10.25:763][525]LogHttp: Warning: 000002C0D765F4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.10.25:763][525]LogHttp: Warning: 000002C0D765F4C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.10.25:763][525]LogHttp: Warning: 000002C0D765F4C0: libcurl info message cache 1 (Closing connection 29)
+[2018.09.26-06.12.25:796][726]LogHttp: Warning: 000002C0D765E340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.12.25:796][726]LogHttp: Warning: 000002C0D765E340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.12.25:796][726]LogHttp: Warning: 000002C0D765E340: libcurl info message cache 1 (Closing connection 30)
+[2018.09.26-06.14.25:824][927]LogHttp: Warning: 000002C0D765EC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.14.25:824][927]LogHttp: Warning: 000002C0D765EC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.14.25:824][927]LogHttp: Warning: 000002C0D765EC00: libcurl info message cache 1 (Closing connection 31)
+[2018.09.26-06.16.25:862][127]LogHttp: Warning: 000002C0D765E480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.26-06.16.25:862][127]LogHttp: Warning: 000002C0D765E480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.26-06.16.25:862][127]LogHttp: Warning: 000002C0D765E480: libcurl info message cache 1 (Closing connection 32)
+[2018.09.26-06.16.41:268][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.16.41:400][ 57]LogSlate: Window 'Ship_1_damage_Anim' being destroyed
+[2018.09.26-06.16.41:405][ 57]LogSlate: Window 'Ship_1_damage_Anim' being destroyed
+[2018.09.26-06.16.42:809][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.16.43:019][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-06.16.43:033][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Content/ships_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.26-06.16.43:187][136]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map7AFB84DD4BC2494B910348B5FB35D1F2.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/ships_map.umap'
+[2018.09.26-06.16.45:265][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.16.45:623][265]LogSlate: Window 'First_person_test - Unreal Editor' being destroyed
+[2018.09.26-06.16.45:624][265]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.26-06.16.45:844][266]Cmd: QUIT_EDITOR
+[2018.09.26-06.16.46:742][266]LogExit: Preparing to exit.
+[2018.09.26-06.16.47:990][266]LogExit: Editor shut down
+[2018.09.26-06.16.47:990][266]LogExit: Transaction tracking system shut down
+[2018.09.26-06.16.49:099][266]LogExit: Object subsystem successfully closed.
+[2018.09.26-06.16.49:151][266]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.26-06.16.49:165][266]LogD3D11RHI: Shutdown
+[2018.09.26-06.16.49:165][266]LogD3D11RHI: CleanupD3DDevice
+[2018.09.26-06.16.49:179][266]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (622)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (620)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module PinnedCommandList (618)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module SkeletonEditor (616)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module AnimationEditor (614)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.09.26-06.16.49:633][266]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.09.26-06.16.49:634][266]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.09.26-06.16.49:634][266]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.09.26-06.16.49:634][266]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.09.26-06.16.49:634][266]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.09.26-06.16.49:634][266]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.09.26-06.16.49:635][266]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.26-06.16.49:635][266]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.26-06.16.49:701][266]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.26-06.16.49:701][266]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.26-06.16.49:701][266]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.26-06.16.49:701][266]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.26-06.16.49:701][266]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.26-06.16.49:701][266]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.26-06.16.49:701][266]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.26-06.16.49:702][266]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.26-06.16.49:702][266]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.26-06.16.49:702][266]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.26-06.16.49:702][266]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.26-06.16.49:702][266]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.26-06.16.49:702][266]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.26-06.16.49:710][266]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.26-06.16.49:710][266]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.26-06.16.49:750][266]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.26-06.16.49:750][266]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.26-06.16.49:750][266]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.26-06.16.49:751][266]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.26-06.16.49:752][266]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.26-06.16.49:752][266]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.26-06.16.49:752][266]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.26-06.16.49:762][266]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.26-06.16.49:762][266]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.26-06.16.49:811][266]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.26-06.16.49:818][266]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.26-06.16.49:818][266]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.26-06.16.49:824][266]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.26-06.16.49:824][266]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.26-06.16.49:825][266]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.26-06.16.49:825][266]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.26-06.16.49:825][266]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.26-06.16.51:469][266]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.26-06.16.51:469][266]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.26-06.16.51:469][266]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.26-06.16.51:469][266]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.26-06.16.51:469][266]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.26-06.16.51:507][266]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.26-06.16.51:507][266]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.26-06.16.51:511][266]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.26-06.16.51:512][266]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.26-06.16.51:512][266]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.26-06.16.51:547][266]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.26-06.16.51:547][266]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.26-06.16.51:560][266]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.26-06.16.51:560][266]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.26-06.16.51:611][266]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.26-06.16.51:611][266]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.26-06.16.51:641][266]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.26-06.16.51:708][266]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.26-06.16.51:708][266]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.26-06.16.51:708][266]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.26-06.16.51:709][266]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.26-06.16.51:709][266]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.26-06.16.51:709][266]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.26-06.16.51:709][266]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.26-06.16.51:723][266]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.26-06.16.51:724][266]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.26-06.16.51:724][266]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.26-06.16.51:724][266]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.26-06.16.51:739][266]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.26-06.16.51:739][266]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.26-06.16.51:739][266]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.26-06.16.51:755][266]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.26-06.16.51:755][266]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.26-06.16.51:773][266]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.26-06.16.51:774][266]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.26-06.16.51:774][266]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.26-06.16.51:774][266]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.26-06.16.51:774][266]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.26-06.16.51:959][266]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.26-06.16.51:959][266]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.26-06.16.51:959][266]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.26-06.16.51:959][266]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.26-06.16.51:959][266]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.26-06.16.51:960][266]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.26-06.16.51:974][266]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.26-06.16.51:974][266]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.26-06.16.51:974][266]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.26-06.16.51:974][266]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.26-06.16.51:999][266]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.26-06.16.51:999][266]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.26-06.16.51:999][266]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.26-06.16.51:999][266]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.26-06.16.52:008][266]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.26-06.16.52:009][266]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.26-06.16.52:009][266]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.26-06.16.52:022][266]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.26-06.16.52:032][266]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.26-06.16.52:033][266]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.26-06.16.52:043][266]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.26-06.16.52:043][266]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.26-06.16.52:043][266]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.26-06.16.52:043][266]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.26-06.16.52:043][266]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.26-06.16.52:044][266]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.26-06.16.52:044][266]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.26-06.16.52:063][266]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.26-06.16.52:063][266]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.26-06.16.52:063][266]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.26-06.16.52:063][266]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.26-06.16.52:063][266]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.26-06.16.52:063][266]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.26-06.16.52:064][266]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.26-06.16.52:064][266]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.26-06.16.52:064][266]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.26-06.16.52:064][266]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.26-06.16.52:165][266]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.26-06.16.52:266][266]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.26-06.16.52:266][266]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.26-06.16.52:266][266]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.26-06.16.52:267][266]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.26-06.16.52:267][266]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.26-06.16.52:267][266]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.26-06.16.52:287][266]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.26-06.16.52:288][266]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.26-06.16.52:289][266]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.26-06.16.52:289][266]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.26-06.16.52:289][266]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.26-06.16.52:290][266]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.26-06.16.52:293][266]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.26-06.16.52:293][266]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.26-06.16.52:293][266]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.26-06.16.52:293][266]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.26-06.16.52:293][266]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.26-06.16.52:293][266]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.26-06.16.52:318][266]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.26-06.16.52:324][266]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.26-06.16.52:324][266]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.26-06.16.52:324][266]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.26-06.16.52:333][266]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.26-06.16.52:333][266]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.26-06.16.52:333][266]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.26-06.16.52:333][266]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.26-06.16.52:333][266]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.26-06.16.52:362][266]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.26-06.16.52:362][266]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
