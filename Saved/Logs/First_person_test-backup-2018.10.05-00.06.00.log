@@ -1,0 +1,1785 @@
+﻿Log file open, 10/04/18 22:17:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: First_person_test
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.918976
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.530s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.111s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.04-15.17.21:245][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.04-15.17.21:245][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.04-15.17.21:341][  0]LogHAL: Display: Platform has ~ 12 GB [12765364224 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.04-15.17.21:345][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.04-15.17.21:357][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.04-15.17.21:438][  0]LogInit: Computer: DESKTOP-0QK8V7C
+[2018.10.04-15.17.21:438][  0]LogInit: User: VagueFuture
+[2018.10.04-15.17.21:438][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.04-15.17.21:438][  0]LogInit: High frequency timer resolution =2.250001 MHz
+[2018.10.04-15.17.21:438][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.10.04-15.17.21:439][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.04-15.17.21:439][  0]LogMemory: Process Physical Memory: 101.82 MB used, 101.82 MB peak
+[2018.10.04-15.17.21:439][  0]LogMemory: Process Virtual Memory: 98.54 MB used, 98.54 MB peak
+[2018.10.04-15.17.21:439][  0]LogMemory: Physical Memory: 4627.45 MB used,  7546.55 MB free, 12174.00 MB total
+[2018.10.04-15.17.21:439][  0]LogMemory: Virtual Memory: 4634.79 MB used,  7546.55 MB free, 134217728.00 MB total
+[2018.10.04-15.17.22:403][  0]LogInit: Using OS detected language (ru-RU).
+[2018.10.04-15.17.22:404][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.10.04-15.17.22:455][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.10.04-15.17.22:635][  0]LogStreaming: Display: Took  0.204s to InitEngineTextLocalization.
+[2018.10.04-15.17.22:644][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.04-15.17.24:025][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.04-15.17.24:025][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.04-15.17.37:721][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.04-15.17.37:721][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.04-15.17.37:794][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.10.04-15.17.37:794][  0]LogD3D11RHI:       2010/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.04-15.17.37:884][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.10.04-15.17.37:884][  0]LogD3D11RHI:       128/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.04-15.17.37:887][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.04-15.17.37:887][  0]LogD3D11RHI:       0/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.04-15.17.37:887][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.04-15.17.38:021][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.04-15.17.38:021][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.10.04-15.17.38:049][  0]LogWindows: EnumDisplayDevices:
+[2018.10.04-15.17.38:049][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.10.04-15.17.38:050][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.04-15.17.38:050][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.04-15.17.38:050][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.04-15.17.38:050][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.10.04-15.17.38:050][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.04-15.17.38:050][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.04-15.17.38:050][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.10.04-15.17.39:770][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.04-15.17.42:671][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.04-15.17.42:988][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../Unreal Projects/First_person_test/Intermediate/Shaders/WorkingDirectory/5828/).
+[2018.10.04-15.17.42:989][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vague_Future/AppData/Local/Temp/UnrealShaderWorkingDir/9F64E76146F609EFE5BA348436B1DA4F/'.
+[2018.10.04-15.17.45:706][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.04-15.17.45:760][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.04-15.17.45:820][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.04-15.17.45:883][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.04-15.17.45:976][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.04-15.17.46:060][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.04-15.17.46:112][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.04-15.17.46:188][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.04-15.17.46:226][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-15.17.46:505][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.04-15.17.46:806][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.04-15.17.46:806][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.04-15.17.46:861][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.04-15.17.46:861][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.04-15.17.46:931][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.04-15.17.46:963][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.04-15.17.47:006][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.04-15.17.47:049][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.04-15.17.47:092][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.04-15.17.47:092][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.04-15.17.48:214][  0]LogXGEController: Cleaning working directory: C:/Users/Vague_Future/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.04-15.17.48:214][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.04-15.17.48:214][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.04-15.17.48:214][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.04-15.17.53:699][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.04-15.17.54:226][  0]LogDerivedDataCache: Loaded boot cache 0.53s 71MB C:/Users/Vague_Future/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.04-15.17.54:227][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Vague_Future/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.04-15.17.54:227][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/First_person_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.04-15.17.54:227][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.04-15.17.54:227][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/First_person_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.04-15.17.54:227][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.04-15.17.54:380][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.04-15.17.54:394][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vague_Future/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.04-15.17.54:394][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.04-15.17.54:394][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.04-15.17.54:461][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.04-15.17.54:584][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.04-15.17.54:649][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.04-15.17.55:651][  0]LogAssetRegistry: FAssetRegistry took 0.0455 seconds to start up
+[2018.10.04-15.18.00:072][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.04-15.18.02:178][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.04-15.18.02:644][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.04-15.18.02:645][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.04-15.18.02:656][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.04-15.18.02:656][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.04-15.18.03:092][  0]LogNetVersion: First_person_test 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2245846534)
+[2018.10.04-15.18.09:185][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.248863 seconds
+[2018.10.04-15.18.09:240][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.04-15.18.09:240][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.04-15.18.09:240][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.04-15.18.26:274][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.04-15.18.26:337][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.04-15.18.27:810][  0]SourceControl: Source control is disabled
+[2018.10.04-15.18.30:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.04-15.18.30:959][  0]LogOcInput: OculusInput pre-init called
+[2018.10.04-15.18.31:814][  0]LogEngine: Initializing Engine...
+[2018.10.04-15.18.31:939][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.04-15.18.31:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.10.04-15.18.31:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.04-15.18.31:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.04-15.18.31:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.04-15.18.33:122][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.04-15.18.33:653][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.04-15.18.33:894][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.18.34:046][  0]LogInit: FAudioDevice initialized.
+[2018.10.04-15.18.34:046][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.04-15.18.34:210][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Vague_Future/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.04-15.18.34:226][  0]LogInit: Texture streaming: Enabled
+[2018.10.04-15.18.34:489][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.04-15.18.34:647][  0]LogInit: Transaction tracking system initialized
+[2018.10.04-15.18.35:134][  0]BlueprintLog: New page: Editor Load
+[2018.10.04-15.18.37:029][  0]LocalizationService: Localization service is disabled
+[2018.10.04-15.18.42:320][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Content/' took 0.03s
+[2018.10.04-15.18.42:320][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.04-15.18.42:330][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.04-15.18.42:345][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.04-15.18.42:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.04-15.18.42:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.04-15.18.42:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.04-15.18.42:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.04-15.18.44:802][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.04-15.18.44:872][  0]LightingResults: New page: Lighting Build
+[2018.10.04-15.18.45:011][  0]MapCheck: New page: Map Check
+[2018.10.04-15.18.45:011][  0]LightingResults: New page: Lighting Build
+[2018.10.04-15.18.47:047][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.04-15.18.47:660][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.04-15.18.47:776][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.04-15.18.47:844][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68,015ms to complete.
+[2018.10.04-15.18.47:844][  0]LogFileHelpers: Loading map 'Template_Default' took 3.049
+[2018.10.04-15.18.50:649][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.18.50:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.18.50:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.18.50:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.18.50:814][  0]LogCollectionManager: Loaded 0 collections in 0.001577 seconds
+[2018.10.04-15.18.50:918][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Saved/Collections/' took 0.01s
+[2018.10.04-15.18.50:918][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Content/Developers/VagueFuture/Collections/' took 0.01s
+[2018.10.04-15.18.50:918][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/First_person_test/Content/Collections/' took 0.01s
+[2018.10.04-15.18.50:918][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.04-15.18.50:931][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2572 classes and 603 folders.
+[2018.10.04-15.18.51:057][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.04-15.18.52:154][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.04-15.18.52:199][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.04-15.18.53:925][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.04-15.18.53:925][  0]LogLoad: (Engine Initialization) Total time: 116.01 seconds
+[2018.10.04-15.18.53:925][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.04-15.18.54:263][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.04-15.18.54:348][  0]LogSlate: Took 0.014162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.04-15.18.54:377][  0]LogSlate: Took 0.025560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.04-15.18.54:410][  0]LogSlate: Took 0.017945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.04-15.18.54:966][  0]LogRenderer: Reallocating scene render targets to support 476x300 Format 10 NumSamples 1 (Frame:1).
+[2018.10.04-15.18.54:966][  0]LogSlate: Took 0.019340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.04-15.18.55:765][  2]LogAssetRegistry: Asset discovery search completed in 60.1275 seconds
+[2018.10.04-15.18.55:768][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.04-15.18.55:769][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000169 seconds (updated 0 objects)
+[2018.10.04-15.19.10:252][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.20.48:825][580]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.04-15.20.49:163][580]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Сервер\Model\ship_boss1_idle.FBX)
+[2018.10.04-15.20.49:506][580]LogFbx: Loading FBX Scene from D:\Сервер\Model\ship_boss1_idle.FBX
+[2018.10.04-15.20.49:562][580]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.04-15.20.55:330][580]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.04-15.20.55:589][580]LogFbx: =================================================
+[2018.10.04-15.20.55:589][580]LogFbx: Dumping Node START [Box001] 
+[2018.10.04-15.20.55:589][580]LogFbx: 	Total Deformer Count 733336640.
+[2018.10.04-15.20.55:589][580]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.04-15.20.55:589][580]LogFbx: =================================================
+[2018.10.04-15.20.55:589][580]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.20.55:589][580]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.10.04-15.20.55:589][580]LogFbx: Dumping Node END [Box001]
+[2018.10.04-15.20.55:589][580]LogFbx: =================================================
+[2018.10.04-15.20.55:589][580]LogFbx: Dumping Node START [Box001] 
+[2018.10.04-15.20.55:589][580]LogFbx: 	Total Deformer Count 733338040.
+[2018.10.04-15.20.55:589][580]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.04-15.20.55:589][580]LogFbx: =================================================
+[2018.10.04-15.20.55:589][580]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.20.55:589][580]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.10.04-15.20.55:589][580]LogFbx: Dumping Node END [Box001]
+[2018.10.04-15.20.55:605][580]LogFbx: Valid bind pose for Pose (BIND_POSES) - Box001
+[2018.10.04-15.20.55:931][580]LogMaterial: Warning: Material /Game/anim/NPC/ships/Bosss/first_boss/03_-_Default.03_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.04-15.20.55:947][580]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2018.10.04-15.20.56:321][580]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.04-15.20.56:321][580]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.04-15.20.56:321][580]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.04-15.20.56:372][580]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2018.10.04-15.20.56:462][580]LogMaterial: Warning: Material /Game/anim/NPC/ships/Bosss/first_boss/04_-_Default.04_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.04-15.20.56:479][580]LogMaterial: Display: Missing cached shader map for material 04_-_Default, compiling. 
+[2018.10.04-15.20.56:563][580]LogMaterial: Display: Missing cached shader map for material 04_-_Default, compiling. 
+[2018.10.04-15.20.56:631][580]LogMaterial: Warning: Material /Game/anim/NPC/ships/Bosss/first_boss/01_-_Default.01_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.04-15.20.56:640][580]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.10.04-15.20.56:700][580]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.10.04-15.20.57:022][580]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.04-15.20.57:477][580]LogSkeletalMesh: Section 0: 222 vertices, 1 active bones
+[2018.10.04-15.20.57:477][580]LogSkeletalMesh: Section 1: 559 vertices, 1 active bones
+[2018.10.04-15.20.57:477][580]LogSkeletalMesh: Section 2: 998 vertices, 1 active bones
+[2018.10.04-15.20.57:477][580]LogSkeletalMesh: Section 0: Material=0, 128 triangles
+[2018.10.04-15.20.57:477][580]LogSkeletalMesh: Section 1: Material=1, 960 triangles
+[2018.10.04-15.20.57:477][580]LogSkeletalMesh: Section 2: Material=2, 960 triangles
+[2018.10.04-15.20.57:553][580]LogSkeletalMesh: Building Skeletal Mesh ship_boss1_idle...
+[2018.10.04-15.20.57:720][580]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle.ship_boss1_idle
+[2018.10.04-15.20.57:864][580]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton'
+[2018.10.04-15.20.57:864][580]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton'
+[2018.10.04-15.20.57:918][580]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_PhysicsAsset'
+[2018.10.04-15.20.57:918][580]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_PhysicsAsset'
+[2018.10.04-15.20.58:808][580]LogFbx: =================================================
+[2018.10.04-15.20.58:808][580]LogFbx: Dumping Node START [Box001] 
+[2018.10.04-15.20.58:808][580]LogFbx: 	Total Deformer Count 976262376.
+[2018.10.04-15.20.58:808][580]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.04-15.20.58:808][580]LogFbx: =================================================
+[2018.10.04-15.20.58:808][580]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.20.58:808][580]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.10.04-15.20.58:808][580]LogFbx: Dumping Node END [Box001]
+[2018.10.04-15.20.58:808][580]LogFbx: =================================================
+[2018.10.04-15.20.58:808][580]LogFbx: Dumping Node START [Box001] 
+[2018.10.04-15.20.58:808][580]LogFbx: 	Total Deformer Count 976262208.
+[2018.10.04-15.20.58:808][580]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.04-15.20.58:808][580]LogFbx: =================================================
+[2018.10.04-15.20.58:808][580]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.20.58:808][580]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.10.04-15.20.58:808][580]LogFbx: Dumping Node END [Box001]
+[2018.10.04-15.20.58:833][580]LogFbx: SortedLinks :(0) Bone001
+[2018.10.04-15.20.58:866][580]LogFbx: Parsing AnimStack idle
+[2018.10.04-15.20.58:963][580]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim'
+[2018.10.04-15.20.58:964][580]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim'
+[2018.10.04-15.20.59:255][580]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim.ship_boss1_idle_Anim
+[2018.10.04-15.20.59:357][580]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ship_boss1_idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.04-15.20.59:504][580]LogSkeletalMesh: Building Skeletal Mesh ship_boss1_idle...
+[2018.10.04-15.20.59:506][580]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle.ship_boss1_idle
+[2018.10.04-15.20.59:519][580]LogSkeletalMesh: Building Skeletal Mesh ship_boss1_idle...
+[2018.10.04-15.20.59:521][580]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle.ship_boss1_idle
+[2018.10.04-15.21.18:986][905]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.10.04-15.21.21:755][930]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.10.04-15.21.28:386][ 28]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.10.04-15.21.31:420][ 71]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.10.04-15.21.43:034][194]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.10.04-15.21.43:034][194]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.10.04-15.22.37:002][325]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.10.04-15.23.08:429][729]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.10.04-15.23.34:821][924]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.04-15.23.37:021][926]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.04-15.24.34:208][657]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.04-15.24.38:904][884]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.04-15.24.58:528][748]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.04-15.24.58:536][748]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton.ship_boss1_idle_Skeleton
+[2018.10.04-15.24.58:737][748]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.04-15.24.59:822][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-15.24.59:910][748]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.10.04-15.25.00:920][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.04-15.25.02:914][748]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.04-15.25.03:048][749]LogRenderer: Reallocating scene render targets to support 648x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.04-15.25.03:252][749]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.04-15.25.06:212][749]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.04-15.25.07:350][749]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.04-15.25.16:227][749]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.04-15.25.17:766][749]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.04-15.25.18:511][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.25.54:527][132]LogSlate: Window 'ship_boss1_idle_Skeleton*' being destroyed
+[2018.10.04-15.25.54:534][132]LogSlate: Window 'ship_boss1_idle_Skeleton*' being destroyed
+[2018.10.04-15.26.09:710][801]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Сервер\Model\ship_boss1_gun_idle.FBX)
+[2018.10.04-15.26.09:726][801]LogFbx: Loading FBX Scene from D:\Сервер\Model\ship_boss1_gun_idle.FBX
+[2018.10.04-15.26.09:735][801]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.04-15.26.16:753][801]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.04-15.26.16:918][801]LogFbx: =================================================
+[2018.10.04-15.26.16:918][801]LogFbx: Dumping Node START [Cylinder001] 
+[2018.10.04-15.26.16:918][801]LogFbx: 	Total Deformer Count 1232951552.
+[2018.10.04-15.26.16:918][801]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.26.16:918][801]LogFbx: 		[Node Attribute Child 1] Cylinder001 (Type Mesh).
+[2018.10.04-15.26.16:918][801]LogFbx: Dumping Node END [Cylinder001]
+[2018.10.04-15.26.16:918][801]LogFbx: =================================================
+[2018.10.04-15.26.16:918][801]LogFbx: Dumping Node START [Cylinder001] 
+[2018.10.04-15.26.16:918][801]LogFbx: 	Total Deformer Count 1232951552.
+[2018.10.04-15.26.16:918][801]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.26.16:918][801]LogFbx: 		[Node Attribute Child 1] Cylinder001 (Type Mesh).
+[2018.10.04-15.26.16:918][801]LogFbx: Dumping Node END [Cylinder001]
+[2018.10.04-15.26.16:980][801]LogMaterial: Warning: Material /Game/anim/NPC/ships/Bosss/first_boss/gun/02_-_Default.02_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.04-15.26.16:983][801]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.10.04-15.26.17:036][801]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.10.04-15.26.17:092][801]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.04-15.26.17:092][801]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.04-15.26.17:092][801]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.04-15.26.17:092][801]LogMaterial: Warning: Material /Game/anim/NPC/ships/Bosss/first_boss/gun/01_-_Default.01_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.04-15.26.17:111][801]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.10.04-15.26.17:172][801]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.10.04-15.26.17:233][801]LogMaterial: Warning: Material /Game/anim/NPC/ships/Bosss/first_boss/gun/03_-_Default.03_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.04-15.26.17:236][801]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2018.10.04-15.26.17:297][801]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2018.10.04-15.26.17:363][801]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.04-15.26.17:371][801]LogSkeletalMesh: Section 0: 258 vertices, 1 active bones
+[2018.10.04-15.26.17:371][801]LogSkeletalMesh: Section 1: 96 vertices, 1 active bones
+[2018.10.04-15.26.17:371][801]LogSkeletalMesh: Section 2: 48 vertices, 1 active bones
+[2018.10.04-15.26.17:371][801]LogSkeletalMesh: Section 0: Material=0, 284 triangles
+[2018.10.04-15.26.17:371][801]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2018.10.04-15.26.17:372][801]LogSkeletalMesh: Section 2: Material=2, 24 triangles
+[2018.10.04-15.26.17:373][801]LogSkeletalMesh: Building Skeletal Mesh ship_boss1_gun_idle...
+[2018.10.04-15.26.17:374][801]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle.ship_boss1_gun_idle
+[2018.10.04-15.26.17:375][801]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton'
+[2018.10.04-15.26.17:375][801]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton'
+[2018.10.04-15.26.17:381][801]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_PhysicsAsset'
+[2018.10.04-15.26.17:381][801]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_PhysicsAsset'
+[2018.10.04-15.26.17:389][801]LogFbx: =================================================
+[2018.10.04-15.26.17:389][801]LogFbx: Dumping Node START [Cylinder001] 
+[2018.10.04-15.26.17:389][801]LogFbx: 	Total Deformer Count 1892244480.
+[2018.10.04-15.26.17:389][801]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.26.17:389][801]LogFbx: 		[Node Attribute Child 1] Cylinder001 (Type Mesh).
+[2018.10.04-15.26.17:389][801]LogFbx: Dumping Node END [Cylinder001]
+[2018.10.04-15.26.17:389][801]LogFbx: =================================================
+[2018.10.04-15.26.17:389][801]LogFbx: Dumping Node START [Cylinder001] 
+[2018.10.04-15.26.17:389][801]LogFbx: 	Total Deformer Count 1892244480.
+[2018.10.04-15.26.17:389][801]LogFbx: 	Attribute () Type (4).
+[2018.10.04-15.26.17:389][801]LogFbx: 		[Node Attribute Child 1] Cylinder001 (Type Mesh).
+[2018.10.04-15.26.17:389][801]LogFbx: Dumping Node END [Cylinder001]
+[2018.10.04-15.26.17:389][801]LogFbx: SortedLinks :(0) Cylinder001
+[2018.10.04-15.26.17:389][801]LogFbx: Parsing AnimStack idle
+[2018.10.04-15.26.17:390][801]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim'
+[2018.10.04-15.26.17:390][801]LogLinker: Can't find file '/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim'
+[2018.10.04-15.26.17:398][801]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim.ship_boss1_gun_idle_Anim
+[2018.10.04-15.26.17:398][801]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ship_boss1_gun_idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.04-15.26.17:455][801]LogSkeletalMesh: Building Skeletal Mesh ship_boss1_gun_idle...
+[2018.10.04-15.26.17:455][801]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle.ship_boss1_gun_idle
+[2018.10.04-15.26.17:462][801]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.04-15.26.17:537][801]LogSkeletalMesh: Building Skeletal Mesh ship_boss1_gun_idle...
+[2018.10.04-15.26.17:538][801]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle.ship_boss1_gun_idle
+[2018.10.04-15.26.19:645][859]LogSlate: Window 'Message Log' being destroyed
+[2018.10.04-15.26.19:647][859]LogSlate: Window 'Message Log' being destroyed
+[2018.10.04-15.27.33:963][268]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.10.04-15.27.39:309][538]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.10.04-15.28.01:060][604]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.10.04-15.28.41:995][571]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.10.04-15.28.55:558][ 90]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.10.04-15.29.18:840][168]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.04-15.29.27:603][569]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.04-15.30.28:904][416]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.04-15.30.35:453][730]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.04-15.31.09:358][220]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.04-15.31.23:770][978]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.04-15.31.33:870][417]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.04-15.31.34:550][428]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.04-15.31.47:651][598]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.04-15.31.48:081][607]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.04-15.32.10:848][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.328
+[2018.10.04-15.32.10:936][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle] ([1] browsable assets)...
+[2018.10.04-15.32.11:005][899]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle.ship_boss1_idle]
+[2018.10.04-15.32.11:005][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle]
+[2018.10.04-15.32.11:381][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_Auto1BA376F21455B5F70BD2661B5F1C7AC62.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Auto1.uasset'
+[2018.10.04-15.32.11:393][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/03_-_Default] ([1] browsable assets)...
+[2018.10.04-15.32.11:434][899]OBJ SavePackage:     Rendered thumbnail for [Material /Game/anim/NPC/ships/Bosss/first_boss/03_-_Default.03_-_Default]
+[2018.10.04-15.32.11:437][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/03_-_Default]
+[2018.10.04-15.32.11:476][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/03_-_Default_Auto1F34EA79E4D58B831E06014B06EF620AC.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/03_-_Default_Auto1.uasset'
+[2018.10.04-15.32.11:477][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/04_-_Default] ([1] browsable assets)...
+[2018.10.04-15.32.11:539][899]OBJ SavePackage:     Rendered thumbnail for [Material /Game/anim/NPC/ships/Bosss/first_boss/04_-_Default.04_-_Default]
+[2018.10.04-15.32.11:540][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/04_-_Default]
+[2018.10.04-15.32.11:579][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/04_-_Default_Auto113DA2C944486AFC1838EC988418D1382.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/04_-_Default_Auto1.uasset'
+[2018.10.04-15.32.11:588][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/01_-_Default] ([1] browsable assets)...
+[2018.10.04-15.32.11:629][899]OBJ SavePackage:     Rendered thumbnail for [Material /Game/anim/NPC/ships/Bosss/first_boss/01_-_Default.01_-_Default]
+[2018.10.04-15.32.11:629][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/01_-_Default]
+[2018.10.04-15.32.11:678][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/01_-_Default_Auto1E5F7959D4E699C301D7A26828DBBDDD1.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/01_-_Default_Auto1.uasset'
+[2018.10.04-15.32.11:680][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton] ([1] browsable assets)...
+[2018.10.04-15.32.11:680][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton]
+[2018.10.04-15.32.11:694][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_Skeleton_Auto16286B0084D969B2AD740B1ABFF1AD940.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton_Auto1.uasset'
+[2018.10.04-15.32.11:695][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_PhysicsAsset] ([1] browsable assets)...
+[2018.10.04-15.32.11:739][899]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_PhysicsAsset.ship_boss1_idle_PhysicsAsset]
+[2018.10.04-15.32.11:739][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_PhysicsAsset]
+[2018.10.04-15.32.11:774][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_PhysicsAsset_Aut768678964896A638F697CB8B6FB2111B.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_PhysicsAsset_Auto1.uasset'
+[2018.10.04-15.32.11:776][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim] ([1] browsable assets)...
+[2018.10.04-15.32.11:814][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim.ship_boss1_idle_Anim]
+[2018.10.04-15.32.11:815][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim]
+[2018.10.04-15.32.11:848][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_Anim_Auto1FD51C8EF49BAD896C10518AAAFBDE547.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim_Auto1.uasset'
+[2018.10.04-15.32.11:856][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle] ([1] browsable assets)...
+[2018.10.04-15.32.11:896][899]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle.ship_boss1_gun_idle]
+[2018.10.04-15.32.11:897][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle]
+[2018.10.04-15.32.11:929][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_Auto198F8D9494B3CD36CBD1A46930411D265.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Auto1.uasset'
+[2018.10.04-15.32.11:930][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/02_-_Default] ([1] browsable assets)...
+[2018.10.04-15.32.11:971][899]OBJ SavePackage:     Rendered thumbnail for [Material /Game/anim/NPC/ships/Bosss/first_boss/gun/02_-_Default.02_-_Default]
+[2018.10.04-15.32.11:971][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/02_-_Default]
+[2018.10.04-15.32.12:007][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/02_-_Default_Auto1363F61B94A8FA584708B0F932144FBB6.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/02_-_Default_Auto1.uasset'
+[2018.10.04-15.32.12:009][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/01_-_Default] ([1] browsable assets)...
+[2018.10.04-15.32.12:050][899]OBJ SavePackage:     Rendered thumbnail for [Material /Game/anim/NPC/ships/Bosss/first_boss/gun/01_-_Default.01_-_Default]
+[2018.10.04-15.32.12:050][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/01_-_Default]
+[2018.10.04-15.32.12:096][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/01_-_Default_Auto1E5A4A5374EFE1626DF65CD894D6C175B.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/01_-_Default_Auto1.uasset'
+[2018.10.04-15.32.12:112][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/03_-_Default] ([1] browsable assets)...
+[2018.10.04-15.32.12:161][899]OBJ SavePackage:     Rendered thumbnail for [Material /Game/anim/NPC/ships/Bosss/first_boss/gun/03_-_Default.03_-_Default]
+[2018.10.04-15.32.12:161][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/03_-_Default]
+[2018.10.04-15.32.12:211][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/03_-_Default_Auto18F532429453839024928B4A959F961AC.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/03_-_Default_Auto1.uasset'
+[2018.10.04-15.32.12:213][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton] ([1] browsable assets)...
+[2018.10.04-15.32.12:213][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton]
+[2018.10.04-15.32.12:227][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_Skeleton_Aut2AFC8A254B6A0B82F7A8BDB5A31A858A.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton_Auto1.uasset'
+[2018.10.04-15.32.12:230][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_PhysicsAsset] ([1] browsable assets)...
+[2018.10.04-15.32.12:271][899]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_PhysicsAsset.ship_boss1_gun_idle_PhysicsAsset]
+[2018.10.04-15.32.12:271][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_PhysicsAsset]
+[2018.10.04-15.32.12:299][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_PhysicsAsset75903796498291E2305DA597200EA76D.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_PhysicsAsset_Auto1.uasset'
+[2018.10.04-15.32.12:307][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim] ([1] browsable assets)...
+[2018.10.04-15.32.12:347][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim.ship_boss1_gun_idle_Anim]
+[2018.10.04-15.32.12:347][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim]
+[2018.10.04-15.32.12:397][899]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_Anim_Auto1D36B43DA492BAC6AE1726C8682D7DCCA.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim_Auto1.uasset'
+[2018.10.04-15.32.12:398][899]LogFileHelpers: Auto-saving content packages took 1.532
+[2018.10.04-15.34.24:994][870]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.04-15.34.44:477][666]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.04-15.34.51:956][995]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/anim/NPC/ships/Bosss/first_boss/Boss_1.Boss_1
+[2018.10.04-15.34.54:290][995]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.04-15.34.57:920][996]LogRenderer: Reallocating scene render targets to support 684x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.04-15.35.00:487][ 52]LogSlate: Took 0.061485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.04-15.35.21:500][873]LogEditorTransaction: Undo Modify Component(s)
+[2018.10.04-15.36.34:544][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.36.34:633][880]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-15.36.37:013][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-15.36.37:104][921]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1FD2AEFA449089FC51FBE92A95CB64E2D.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-15.36.43:127][183]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton.ship_boss1_idle_Skeleton
+[2018.10.04-15.36.43:144][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-15.36.43:254][183]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.04-15.36.47:456][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.37.32:045][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.37.48:951][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.38.11:414][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.39.06:891][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.39.30:435][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.39.39:866][143]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_Skeleton11739D6748F79624314478B084F131E3.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton.uasset'
+[2018.10.04-15.41.00:759][180]LogSlate: Took 0.023802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.04-15.41.31:688][151]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/player/player_character.player_character
+[2018.10.04-15.42.23:988][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.444
+[2018.10.04-15.42.23:991][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/Boss_1] ([1] browsable assets)...
+[2018.10.04-15.42.24:025][266]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/anim/NPC/ships/Bosss/first_boss/Boss_1.Boss_1]
+[2018.10.04-15.42.24:025][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/Boss_1]
+[2018.10.04-15.42.25:029][266]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1_Auto2D5748546455381638C0DBE936ED29D28.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/Boss_1_Auto2.uasset'
+[2018.10.04-15.42.25:030][266]LogFileHelpers: Auto-saving content packages took 1.040
+[2018.10.04-15.43.03:716][976]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.04-15.43.18:193][665]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-15.43.18:246][665]LogBlueprint: Error: [Compiler Boss_1] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.10.04-15.43.18:496][665]LogBlueprint: Warning: [Compiler Boss_1] [1580,58] Compile of Boss_1 failed. 1 Fatal Issue(s) 0 Warning(s) [in 303 ms] (/Game/anim/NPC/ships/Bosss/first_boss/Boss_1.Boss_1)
+[2018.10.04-15.43.33:930][362]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.04-15.43.46:186][971]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun.boss1_gun
+[2018.10.04-15.44.24:988][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.44.25:064][609]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-15.44.26:316][626]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/boss1_gun559ED27944E3B20F76572F8263E94B43.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun.uasset'
+[2018.10.04-15.44.30:512][814]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.04-15.44.50:748][781]LogEditorTransaction: Undo Paste clipboard contents
+[2018.10.04-15.44.50:804][781]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-15.45.18:154][ 66]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-15.45.19:165][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-15.45.19:537][ 85]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_184FBB5044F7BDF67A90A618477CFDB57.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-15.45.27:532][439]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-15.45.28:378][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-15.45.28:449][452]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_11A3414AE4F9D00C3D9488D80C2ECA026.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-15.45.40:829][909]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.45.41:086][909]LogAssetEditorManager: Opening Asset editor for World /Game/ships_map.ships_map
+[2018.10.04-15.45.42:611][909]LogSlate: Window 'Save Content' being destroyed
+[2018.10.04-15.45.42:931][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/01_-_DefaultA70870E9411CE51A0872DF9DC516A12E.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/01_-_Default.uasset'
+[2018.10.04-15.45.43:397][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/03_-_DefaultA2A9B2A94CCF24C340E292B74A4A920C.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/03_-_Default.uasset'
+[2018.10.04-15.45.43:876][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/04_-_Default3F83F09F45071FA960614D8A641BFE25.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/04_-_Default.uasset'
+[2018.10.04-15.45.44:323][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/01_-_DefaultA537DFC64DAE82251701E0985D74C5FB.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/01_-_Default.uasset'
+[2018.10.04-15.45.44:775][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/02_-_DefaultEE2DA101466BC99D3FB22CB80EE022EF.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/02_-_Default.uasset'
+[2018.10.04-15.45.45:231][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/03_-_DefaultE6BDC7774E5407E2EE7417B484539A4A.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/03_-_Default.uasset'
+[2018.10.04-15.45.45:712][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle95157C8C44796575F68D038A3B4B225E.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle.uasset'
+[2018.10.04-15.45.46:140][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_Anim34A136D447D6BED7E33FBFB0ABAAB090.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Anim.uasset'
+[2018.10.04-15.45.46:525][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_PhysicsAsset11351E7F48D7C5955725D2BCF9B21E46.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_PhysicsAsset.uasset'
+[2018.10.04-15.45.46:940][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_Skeleton5DD0862842B517D06CED01A28BF61F87.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton.uasset'
+[2018.10.04-15.45.47:360][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle46A933BE485FA3605C65F69A60E1BAF9.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle.uasset'
+[2018.10.04-15.45.47:806][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_AnimF0C9B784444ABD3776438EA304A56C15.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Anim.uasset'
+[2018.10.04-15.45.48:225][909]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_PhysicsAsset502CEFB241473A0BCC633495C45A1F17.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_PhysicsAsset.uasset'
+[2018.10.04-15.45.48:657][909]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/First_person_test/Content/ships_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.04-15.45.48:657][909]LightingResults: New page: Lighting Build
+[2018.10.04-15.45.48:658][909]LoadErrors: New page: Loading map: ships_map.umap
+[2018.10.04-15.45.48:668][909]MapCheck: New page: Map Check
+[2018.10.04-15.45.48:668][909]LightingResults: New page: Lighting Build
+[2018.10.04-15.45.51:284][909]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.04-15.45.51:476][909]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.04-15.45.51:597][909]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120,53ms to complete.
+[2018.10.04-15.45.51:606][909]LogFileHelpers: Loading map 'ships_map' took 2.968
+[2018.10.04-15.46.18:820][335]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail4)
+[2018.10.04-15.47.01:526][302]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-15.47.06:845][580]Cmd: TRANSACTION UNDO
+[2018.10.04-15.47.06:845][580]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.04-15.47.06:893][580]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-15.47.07:701][600]Cmd: TRANSACTION UNDO
+[2018.10.04-15.47.07:702][600]LogEditorTransaction: Undo Move Actors
+[2018.10.04-15.47.07:706][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-15.47.15:996][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.47.17:989][ 71]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-15.47.24:961][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.47.43:532][302]LogEditorViewport: Clicking on Actor (LMB): HPBOX_BP_C (HPBOX_BP8)
+[2018.10.04-15.47.46:914][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.47.54:675][820]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-15.47.56:093][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.48.05:280][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.48.25:620][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.48.31:327][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.48.31:495][553]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 5:48:31)
+[2018.10.04-15.48.31:500][553]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.48.31:609][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108778s)
+[2018.10.04-15.48.31:611][553]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.48.31:626][553]LogPlayLevel: PIE: World Init took: (0.016499s)
+[2018.10.04-15.48.31:626][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.125816s)
+[2018.10.04-15.48.31:754][553]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.48.31:873][553]LogInit: FAudioDevice initialized.
+[2018.10.04-15.48.31:894][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.48.31:964][553]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.48.31:993][553]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.48.31
+[2018.10.04-15.48.32:222][553]LogWorld: Bringing up level for play took: 0.257557
+[2018.10.04-15.48.32:321][553]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-15.48.32:452][553]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.10.04-15.48.32:550][553]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,525
+[2018.10.04-15.48.44:182][117]LogBlueprintUserMessages: [enmy_ship4] hit
+[2018.10.04-15.48.44:322][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.48.44:420][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.48.44:496][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.48.44:584][122]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.04-15.48.47:305][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.48.52:534][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.02:517][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.09:166][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.12:599][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.15:305][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.15:594][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.49.15:664][423]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_SkeletonF7E9F7FC4796168CB18C5E9AC70C70F6.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton.uasset'
+[2018.10.04-15.49.16:624][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.18:659][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.49.19:307][562]LogTemp: Repeating last play command: Simulate
+[2018.10.04-15.49.19:370][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.49.19:371][562]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 5:49:19)
+[2018.10.04-15.49.19:371][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.49.19:402][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031385s)
+[2018.10.04-15.49.19:404][562]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.49.19:404][562]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2018.10.04-15.49.19:404][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.033289s)
+[2018.10.04-15.49.19:477][562]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.49.19:560][562]LogInit: FAudioDevice initialized.
+[2018.10.04-15.49.19:560][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.49.19:602][562]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.49.19:613][562]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.49.19
+[2018.10.04-15.49.19:632][562]LogWorld: Bringing up level for play took: 0.029004
+[2018.10.04-15.49.19:646][562]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-15.49.19:653][562]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,628
+[2018.10.04-15.49.20:362][592]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-15.49.31:996][156]LogBlueprintUserMessages: [enmy_ship4] hit
+[2018.10.04-15.49.35:853][336]LogBlueprintUserMessages: [enmy_ship3] hit
+[2018.10.04-15.49.36:109][347]LogBlueprintUserMessages: [enmy_ship2] hit
+[2018.10.04-15.49.36:442][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.49.36:492][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.49.36:552][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.49.36:588][362]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.04-15.49.37:522][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.40:136][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.46:785][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.54:195][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.49.58:582][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.50.03:713][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.50.03:942][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.50.04:000][540]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_idle_SkeletonF9C28F3044292A9795365E84F6A05A1E.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/ship_boss1_idle_Skeleton.uasset'
+[2018.10.04-15.50.04:821][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.50.06:424][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.50.07:265][709]LogTemp: Repeating last play command: Simulate
+[2018.10.04-15.50.07:331][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.50.07:331][709]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 5:50:07)
+[2018.10.04-15.50.07:331][709]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.50.07:363][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031457s)
+[2018.10.04-15.50.07:364][709]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.50.07:364][709]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2018.10.04-15.50.07:364][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.032982s)
+[2018.10.04-15.50.07:418][709]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.50.07:516][709]LogInit: FAudioDevice initialized.
+[2018.10.04-15.50.07:516][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.50.07:551][709]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.50.07:563][709]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.50.07
+[2018.10.04-15.50.07:572][709]LogWorld: Bringing up level for play took: 0.019789
+[2018.10.04-15.50.07:586][709]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-15.50.07:590][709]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,566
+[2018.10.04-15.50.08:233][737]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-15.50.15:679][116]LogBlueprintUserMessages: [enmy_ship1_2] hit
+[2018.10.04-15.50.15:679][116]LogBlueprintUserMessages: [enmy_ship3] hit
+[2018.10.04-15.50.23:471][501]LogBlueprintUserMessages: [enmy_ship2] hit
+[2018.10.04-15.50.25:795][622]LogBlueprintUserMessages: [enmy_ship5] hit
+[2018.10.04-15.50.25:796][622]LogBlueprintUserMessages: [enmy_ship6] hit
+[2018.10.04-15.50.36:956][155]LogBlueprintUserMessages: [enmy_ship9] hit
+[2018.10.04-15.50.38:247][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.50.38:294][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.50.38:353][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.50.38:390][212]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.04-15.50.58:553][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.51.01:268][437]Cmd: TRANSACTION UNDO
+[2018.10.04-15.51.01:269][437]LogEditorTransaction: Undo Move Actors
+[2018.10.04-15.51.01:315][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-15.51.03:549][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.51.18:177][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.51.18:178][134]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 5:51:18)
+[2018.10.04-15.51.18:178][134]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.51.18:214][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036021s)
+[2018.10.04-15.51.18:215][134]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.51.18:215][134]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.10.04-15.51.18:215][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.037157s)
+[2018.10.04-15.51.18:314][134]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.51.18:412][134]LogInit: FAudioDevice initialized.
+[2018.10.04-15.51.18:477][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.51.18:625][134]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.51.18:638][134]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.51.18
+[2018.10.04-15.51.18:647][134]LogWorld: Bringing up level for play took: 0.020953
+[2018.10.04-15.51.18:680][134]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,344
+[2018.10.04-15.51.18:734][134]LogRenderer: Reallocating scene render targets to support 1024x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.04-15.51.43:360][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.51.43:435][336]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-15.51.43:525][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.51.43:640][337]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.04-15.51.50:070][675]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-15.51.58:432][ 62]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-15.51.59:051][ 88]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-15.51.59:869][123]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-15.52.00:372][147]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail4)
+[2018.10.04-15.52.02:155][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.52.06:199][429]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-15.52.06:261][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.52.06:262][429]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 5:52:06)
+[2018.10.04-15.52.06:262][429]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.52.06:294][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032387s)
+[2018.10.04-15.52.06:301][429]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.52.06:302][429]LogPlayLevel: PIE: World Init took: (0.007151s)
+[2018.10.04-15.52.06:302][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.040022s)
+[2018.10.04-15.52.06:389][429]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.52.06:487][429]LogInit: FAudioDevice initialized.
+[2018.10.04-15.52.06:497][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.52.06:593][429]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.52.06:605][429]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.52.06
+[2018.10.04-15.52.06:615][429]LogWorld: Bringing up level for play took: 0.021036
+[2018.10.04-15.52.06:635][429]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,389
+[2018.10.04-15.52.17:267][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.52.17:347][932]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-15.52.17:391][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.52.17:519][933]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.04-15.52.18:929][ 11]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-15.52.21:714][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.52.22:732][182]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-15.52.22:794][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.52.22:794][182]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 5:52:22)
+[2018.10.04-15.52.22:794][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.52.22:825][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030096s)
+[2018.10.04-15.52.22:825][182]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.52.22:826][182]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.10.04-15.52.22:826][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.031196s)
+[2018.10.04-15.52.22:881][182]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.52.22:982][182]LogInit: FAudioDevice initialized.
+[2018.10.04-15.52.22:984][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.52.22:993][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.52.23:083][182]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.52.23:094][182]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.52.23
+[2018.10.04-15.52.23:099][182]LogWorld: Bringing up level for play took: 0.016993
+[2018.10.04-15.52.23:120][182]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,096
+[2018.10.04-15.52.43:360][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.52.43:424][ 96]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-15.52.43:479][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.52.43:575][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.04-15.52.44:576][154]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-15.52.46:949][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.52.47:932][309]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-15.52.47:990][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.52.47:990][309]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 5:52:47)
+[2018.10.04-15.52.47:990][309]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.52.48:022][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031685s)
+[2018.10.04-15.52.48:023][309]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.52.48:023][309]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2018.10.04-15.52.48:023][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.032665s)
+[2018.10.04-15.52.48:087][309]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.52.48:171][309]LogInit: FAudioDevice initialized.
+[2018.10.04-15.52.48:174][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.52.48:179][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.52.48:285][309]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.52.48:297][309]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.52.48
+[2018.10.04-15.52.48:307][309]LogWorld: Bringing up level for play took: 0.021050
+[2018.10.04-15.52.48:325][309]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,301
+[2018.10.04-15.52.48:986][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.52.49:043][339]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-15.52.49:110][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.52.49:203][340]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.04-15.52.50:624][421]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.52.51:592][466]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.52.52:141][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.52.53:026][540]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail4)
+[2018.10.04-15.52.55:608][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.53.03:670][ 32]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-15.53.10:898][371]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail4)
+[2018.10.04-15.53.15:104][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.53.21:146][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.53.26:038][121]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-15.53.26:097][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.53.26:097][121]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 5:53:26)
+[2018.10.04-15.53.26:098][121]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.53.26:129][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031773s)
+[2018.10.04-15.53.26:130][121]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.53.26:131][121]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2018.10.04-15.53.26:131][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.033093s)
+[2018.10.04-15.53.26:216][121]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.53.26:296][121]LogInit: FAudioDevice initialized.
+[2018.10.04-15.53.26:307][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.53.26:406][121]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.53.26:419][121]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.53.26
+[2018.10.04-15.53.26:429][121]LogWorld: Bringing up level for play took: 0.021396
+[2018.10.04-15.53.26:450][121]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,575
+[2018.10.04-15.53.46:573][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.53.46:615][225]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-15.53.46:657][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.53.46:751][226]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.10.04-15.53.48:024][302]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-15.53.51:374][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-15.53.52:779][570]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.53.53:574][614]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.53.54:655][677]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.53.56:584][791]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.53.57:100][820]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.04-15.53.57:806][861]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail4)
+[2018.10.04-15.53.59:077][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-15.54.01:256][ 52]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-15.54.01:309][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.54.01:310][ 52]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 5:54:01)
+[2018.10.04-15.54.01:310][ 52]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.54.01:340][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029663s)
+[2018.10.04-15.54.01:340][ 52]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.54.01:340][ 52]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.10.04-15.54.01:340][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.030583s)
+[2018.10.04-15.54.01:420][ 52]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.54.01:477][ 52]LogInit: FAudioDevice initialized.
+[2018.10.04-15.54.01:486][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.54.01:572][ 52]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.54.01:583][ 52]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.54.01
+[2018.10.04-15.54.01:589][ 52]LogWorld: Bringing up level for play took: 0.016286
+[2018.10.04-15.54.01:608][ 52]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,584
+[2018.10.04-15.54.15:326][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.54.15:370][866]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-15.54.15:411][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-15.54.15:513][867]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.04-15.57.52:558][362]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-15.57.53:869][371]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/boss1_gun03C0094945E9AE8AC02BA4BD98B1A624.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun.uasset'
+[2018.10.04-15.58.12:797][164]LogSlate: Took 0.027519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.04-15.58.19:662][413]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-15.58.20:523][424]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/boss1_gun159318D74D3958FC8F8649829CDDD6F4.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun.uasset'
+[2018.10.04-15.58.48:363][666]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-15.59.38:323][810]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-15.59.39:225][823]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/boss1_gun6CE3FF024310C1912A8C8EBF983A8BB1.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun.uasset'
+[2018.10.04-15.59.44:021][ 50]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-15.59.44:105][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-15.59.44:105][ 50]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 5:59:44)
+[2018.10.04-15.59.44:105][ 50]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-15.59.44:137][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031059s)
+[2018.10.04-15.59.44:137][ 50]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-15.59.44:138][ 50]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2018.10.04-15.59.44:138][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.032180s)
+[2018.10.04-15.59.44:206][ 50]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-15.59.44:340][ 50]LogInit: FAudioDevice initialized.
+[2018.10.04-15.59.44:355][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-15.59.44:449][ 50]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-15.59.44:461][ 50]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-22.59.44
+[2018.10.04-15.59.44:470][ 50]LogWorld: Bringing up level for play took: 0.019819
+[2018.10.04-15.59.44:492][ 50]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,532
+[2018.10.04-16.00.04:603][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.00.04:664][975]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.00.04:703][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.00.04:815][976]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.10.04-16.00.05:389][  8]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.00.07:744][113]Cmd: TRANSACTION UNDO
+[2018.10.04-16.00.07:744][113]LogEditorTransaction: Undo Move Actors
+[2018.10.04-16.00.07:748][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-16.00.20:162][673]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.00.21:646][737]Cmd: TRANSACTION UNDO
+[2018.10.04-16.00.21:646][737]LogEditorTransaction: Undo Move Actors
+[2018.10.04-16.00.21:649][737]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-16.00.22:978][788]Cmd: TRANSACTION UNDO
+[2018.10.04-16.00.22:978][788]LogEditorTransaction: Undo Move Actors
+[2018.10.04-16.00.22:981][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-16.00.28:345][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.01.05:800][367]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.01.05:800][367]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.01.07:546][422]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-16.01.11:392][569]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.01.11:452][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.01.11:452][569]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:01:11)
+[2018.10.04-16.01.11:452][569]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.01.11:484][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031628s)
+[2018.10.04-16.01.11:485][569]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.01.11:485][569]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.10.04-16.01.11:485][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.032621s)
+[2018.10.04-16.01.11:542][569]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.01.11:649][569]LogInit: FAudioDevice initialized.
+[2018.10.04-16.01.11:660][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.01.11:762][569]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.01.11:775][569]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.01.11
+[2018.10.04-16.01.11:785][569]LogWorld: Bringing up level for play took: 0.021614
+[2018.10.04-16.01.11:864][569]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,84
+[2018.10.04-16.01.31:806][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.01.31:864][418]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.01.31:907][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.01.32:043][419]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.10.04-16.01.43:128][872]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.01.43:191][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.01.43:191][872]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:01:43)
+[2018.10.04-16.01.43:191][872]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.01.43:225][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034761s)
+[2018.10.04-16.01.43:226][872]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.01.43:226][872]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2018.10.04-16.01.43:226][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.035766s)
+[2018.10.04-16.01.43:277][872]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.01.43:389][872]LogInit: FAudioDevice initialized.
+[2018.10.04-16.01.43:399][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.01.43:499][872]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.01.43:512][872]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.01.43
+[2018.10.04-16.01.43:521][872]LogWorld: Bringing up level for play took: 0.021312
+[2018.10.04-16.01.43:545][872]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,52
+[2018.10.04-16.01.51:279][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.01.51:354][232]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.01.51:397][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.01.51:508][233]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.10.04-16.03.03:279][852]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-16.03.04:300][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.04-16.03.05:109][858]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map_Auto31A73B5C14D835E343B5281B1A5698CED.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto3.umap'
+[2018.10.04-16.03.05:155][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ships_map' took 1.364
+[2018.10.04-16.03.05:155][858]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.364
+[2018.10.04-16.03.05:158][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun] ([1] browsable assets)...
+[2018.10.04-16.03.05:175][858]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun.boss1_gun]
+[2018.10.04-16.03.05:175][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun]
+[2018.10.04-16.03.05:276][858]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/boss1_gun_Auto3494AEE2847553102C9013BBBBD0438B5.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun_Auto3.uasset'
+[2018.10.04-16.03.05:277][858]LogFileHelpers: Auto-saving content packages took 0.119
+[2018.10.04-16.03.08:612][ 19]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.03.08:677][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.03.08:677][ 19]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:03:08)
+[2018.10.04-16.03.08:678][ 19]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.03.08:710][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032516s)
+[2018.10.04-16.03.08:711][ 19]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.03.08:711][ 19]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.10.04-16.03.08:711][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.033612s)
+[2018.10.04-16.03.08:760][ 19]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.03.08:870][ 19]LogInit: FAudioDevice initialized.
+[2018.10.04-16.03.08:877][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.03.08:977][ 19]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.03.08:991][ 19]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.03.08
+[2018.10.04-16.03.09:000][ 19]LogWorld: Bringing up level for play took: 0.020613
+[2018.10.04-16.03.09:024][ 19]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,001
+[2018.10.04-16.03.18:946][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.03.19:002][435]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.03.19:043][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.03.19:171][436]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.04-16.03.20:691][510]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.03.20:750][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.03.20:751][510]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:03:20)
+[2018.10.04-16.03.20:751][510]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.03.20:782][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032685s)
+[2018.10.04-16.03.20:783][510]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.03.20:783][510]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.10.04-16.03.20:784][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.033812s)
+[2018.10.04-16.03.20:847][510]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.03.20:955][510]LogInit: FAudioDevice initialized.
+[2018.10.04-16.03.20:969][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.03.21:056][510]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.03.21:069][510]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.03.21
+[2018.10.04-16.03.21:076][510]LogWorld: Bringing up level for play took: 0.019223
+[2018.10.04-16.03.21:103][510]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,078
+[2018.10.04-16.03.49:096][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.03.49:177][691]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.03.49:220][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.03.49:396][692]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.10.04-16.07.15:814][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.07.15:958][ 75]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton.ship_boss1_gun_idle_Skeleton
+[2018.10.04-16.07.15:977][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-16.07.16:064][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.04-16.07.52:055][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.07.59:979][911]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ship_boss1_gun_idle_Skeleton08F71C374F89ECD4291B30A84FDAB44A.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/ship_boss1_gun_idle_Skeleton.uasset'
+[2018.10.04-16.08.07:869][266]BlueprintLog: New page: Compile boss1_gun
+[2018.10.04-16.08.08:745][278]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/boss1_gun3CAA99034E63F18D85A9C28BDBE32775.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun.uasset'
+[2018.10.04-16.12.17:965][505]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.12.17:965][505]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.12.44:313][612]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.12.44:313][612]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.13.16:674][977]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.13.18:164][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.13.18:301][ 19]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_10DAABB3E4970261DA309CF96F2AF889F.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.14.06:330][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.04-16.14.08:530][ 44]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map_Auto4863CA9D64351385C2C202CA66A52B408.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto4.umap'
+[2018.10.04-16.14.08:595][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ships_map' took 3.998
+[2018.10.04-16.14.08:595][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.998
+[2018.10.04-16.14.08:612][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/Boss_1] ([1] browsable assets)...
+[2018.10.04-16.14.08:612][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/Boss_1]
+[2018.10.04-16.14.08:745][ 44]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1_Auto4F8796158488E90DBDF31E390A747F431.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/Boss_1_Auto4.uasset'
+[2018.10.04-16.14.08:746][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun] ([1] browsable assets)...
+[2018.10.04-16.14.08:746][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun]
+[2018.10.04-16.14.08:912][ 44]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/boss1_gun_Auto49BD5DB774DE41A2776190D92EA8DEC53.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/NPC/ships/Bosss/first_boss/gun/boss1_gun_Auto4.uasset'
+[2018.10.04-16.14.08:913][ 44]LogFileHelpers: Auto-saving content packages took 0.308
+[2018.10.04-16.15.12:862][235]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.15.12:862][235]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.15.42:689][535]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.15.42:689][535]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.15.42:689][535]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.15.44:704][614]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.18.52:056][859]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.18.52:056][859]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.18.59:618][165]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.20.30:497][962]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.20.30:498][962]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.23.08:105][665]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.23.09:066][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.23.11:575][675]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1ED8C9C67471F6405683F82AF15AE2554.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.23.15:493][843]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.23.18:578][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.23.30:060][369]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.23.30:060][369]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.25.31:985][619]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.25.32:983][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.25.33:087][623]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_16F0908A94D0CC2B67D0DAFA0609F7DC7.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.26.11:486][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.04-16.26.12:865][767]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map_Auto50399ED2645F7A2CB745CD8AABCF2463A.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto5.umap'
+[2018.10.04-16.26.12:918][767]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ships_map' took 1.882
+[2018.10.04-16.26.12:918][767]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.882
+[2018.10.04-16.27.07:524][ 29]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.27.07:524][ 29]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.27.24:349][749]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail4)
+[2018.10.04-16.27.25:902][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.27.29:692][  0]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.27.29:775][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.27.29:775][  0]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:27:29)
+[2018.10.04-16.27.29:775][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.27.29:818][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042394s)
+[2018.10.04-16.27.29:819][  0]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.27.29:819][  0]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2018.10.04-16.27.29:819][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.043648s)
+[2018.10.04-16.27.29:915][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.27.30:017][  0]LogInit: FAudioDevice initialized.
+[2018.10.04-16.27.30:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.27.30:124][  0]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.27.30:137][  0]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.27.30
+[2018.10.04-16.27.30:147][  0]LogWorld: Bringing up level for play took: 0.021168
+[2018.10.04-16.27.30:215][  0]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,19
+[2018.10.04-16.27.39:473][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.27.39:530][396]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.27.39:577][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.27.39:700][397]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.10.04-16.27.40:463][438]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.27.50:294][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.28.12:397][996]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.28.12:468][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.28.12:469][996]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:28:12)
+[2018.10.04-16.28.12:469][996]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.28.12:500][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030792s)
+[2018.10.04-16.28.12:500][996]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.28.12:501][996]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.10.04-16.28.12:501][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.031967s)
+[2018.10.04-16.28.12:573][996]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.28.12:721][996]LogInit: FAudioDevice initialized.
+[2018.10.04-16.28.12:740][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.28.12:828][996]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.28.12:840][996]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.28.12
+[2018.10.04-16.28.12:847][996]LogWorld: Bringing up level for play took: 0.017274
+[2018.10.04-16.28.12:869][996]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,155
+[2018.10.04-16.28.20:965][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.28.21:017][362]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.28.21:060][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.28.21:174][363]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.10.04-16.28.27:208][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.28.46:397][452]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.28.50:590][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.28.50:590][661]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:28:50)
+[2018.10.04-16.28.50:590][661]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.28.50:623][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032174s)
+[2018.10.04-16.28.50:624][661]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.28.50:625][661]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2018.10.04-16.28.50:625][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.034241s)
+[2018.10.04-16.28.50:680][661]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.28.50:777][661]LogInit: FAudioDevice initialized.
+[2018.10.04-16.28.50:777][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.28.50:820][661]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.28.50:844][661]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.28.50
+[2018.10.04-16.28.50:851][661]LogWorld: Bringing up level for play took: 0.029442
+[2018.10.04-16.28.50:865][661]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.28.50:873][661]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,152
+[2018.10.04-16.28.52:139][719]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-16.28.53:518][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.28.53:581][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.28.53:638][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.28.53:679][775]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.10.04-16.28.55:010][845]LogEditorViewport: Clicking on Actor (LMB): trigger_C (trigger)
+[2018.10.04-16.29.00:391][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.29.09:793][520]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.29.12:312][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.29.23:657][ 86]LogEditorViewport: Clicking on Actor (LMB): trigger_C (trigger)
+[2018.10.04-16.29.30:017][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.29.30:822][398]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.29.30:882][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.29.30:882][398]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:29:30)
+[2018.10.04-16.29.30:882][398]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.29.30:913][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030723s)
+[2018.10.04-16.29.30:915][398]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.29.30:915][398]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2018.10.04-16.29.30:915][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.032517s)
+[2018.10.04-16.29.30:983][398]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.29.31:093][398]LogInit: FAudioDevice initialized.
+[2018.10.04-16.29.31:094][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.29.31:139][398]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.29.31:152][398]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.29.31
+[2018.10.04-16.29.31:159][398]LogWorld: Bringing up level for play took: 0.019587
+[2018.10.04-16.29.31:172][398]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.29.31:182][398]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,157
+[2018.10.04-16.29.38:657][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.29.38:707][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.29.38:769][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.29.38:813][743]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.10.04-16.29.48:048][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.29.49:155][145]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.29.49:225][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.29.49:226][145]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:29:49)
+[2018.10.04-16.29.49:226][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.29.49:260][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034105s)
+[2018.10.04-16.29.49:261][145]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.29.49:261][145]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.10.04-16.29.49:261][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.035274s)
+[2018.10.04-16.29.49:328][145]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.29.49:430][145]LogInit: FAudioDevice initialized.
+[2018.10.04-16.29.49:471][145]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.29.49:483][145]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.29.49
+[2018.10.04-16.29.49:492][145]LogWorld: Bringing up level for play took: 0.021283
+[2018.10.04-16.29.49:506][145]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.29.49:509][145]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.10.04-16.29.49:509][145]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/anim/NPC/ships/Bosss/first_boss/Boss_1.Boss_1_C:BndEvt__Mesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.10.04-16.29.55:829][145]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 6,805
+[2018.10.04-16.29.55:860][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.29.55:937][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.29.55:992][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.29.56:082][146]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.10.04-16.30.05:441][600]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.30.15:923][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.30.19:710][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.30.22:621][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.30.25:122][512]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.30.25:185][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.30.25:185][512]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:30:25)
+[2018.10.04-16.30.25:185][512]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.30.25:218][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031890s)
+[2018.10.04-16.30.25:219][512]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.30.25:219][512]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2018.10.04-16.30.25:219][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.033527s)
+[2018.10.04-16.30.25:276][512]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.30.25:374][512]LogInit: FAudioDevice initialized.
+[2018.10.04-16.30.25:410][512]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.30.25:420][512]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.30.25
+[2018.10.04-16.30.25:426][512]LogWorld: Bringing up level for play took: 0.015013
+[2018.10.04-16.30.25:439][512]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.30.25:441][512]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.10.04-16.30.25:441][512]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/anim/NPC/ships/Bosss/first_boss/Boss_1.Boss_1_C:BndEvt__Mesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.10.04-16.30.42:490][512]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 17,466
+[2018.10.04-16.30.42:571][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.30.42:669][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.30.42:725][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.30.42:841][513]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.10.04-16.30.50:280][714]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.769 s
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: 
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\InputCore\Private\InputCoreTypes.cpp] [Line: 717]
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_1102'
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: Stack: 
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffa9b3271f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffa9b060c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffa9b07b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffad55997d8 UE4Editor-InputCore.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffad559d6a5 UE4Editor-InputCore.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffa99fb99a9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffac986cfd6 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffac9860270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffac986f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffac985c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffaf02b6cc1 USER32.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffaf02b6693 USER32.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffac9870646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ff7a1bf54e5 UE4Editor.exe!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ff7a1c05b3c UE4Editor.exe!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ff7a1c05bba UE4Editor.exe!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ff7a1c13dac UE4Editor.exe!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ff7a1c15aaa UE4Editor.exe!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffaf08c3034 KERNEL32.DLL!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: [Callstack] 0x00007ffaf2da1461 ntdll.dll!UnknownFunction []
+[2018.10.04-16.30.50:281][714]LogOutputDevice: Error: 
+[2018.10.04-16.30.50:299][714]LogStats:                SubmitErrorReport -  0.014 s
+[2018.10.04-16.30.58:946][714]LogStats:                    SendNewReport -  8.648 s
+[2018.10.04-16.30.58:946][714]LogStats:             FDebug::EnsureFailed - 11.458 s
+[2018.10.04-16.30.58:977][714]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.30.58:977][714]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.31.15:814][472]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.31.16:676][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.31.16:790][485]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1DF8B9A0D4AAFC15C4E3A5988CA321AE0.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.34.15:515][235]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.34.15:515][235]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.35.08:646][235]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.35.09:638][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.35.09:739][246]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1159F5DC846EDDF0976E49DB4FEE4CE0E.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.35.12:542][379]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.35.12:629][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.35.12:630][379]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:35:12)
+[2018.10.04-16.35.12:630][379]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.35.12:666][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035749s)
+[2018.10.04-16.35.12:667][379]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.35.12:668][379]LogPlayLevel: PIE: World Init took: (0.002251s)
+[2018.10.04-16.35.12:668][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.038355s)
+[2018.10.04-16.35.12:723][379]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.35.12:817][379]LogInit: FAudioDevice initialized.
+[2018.10.04-16.35.12:854][379]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.35.12:867][379]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.35.12
+[2018.10.04-16.35.12:874][379]LogWorld: Bringing up level for play took: 0.019792
+[2018.10.04-16.35.12:888][379]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.35.12:952][379]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,073
+[2018.10.04-16.35.20:018][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.35.20:064][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.35.20:120][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.35.20:158][704]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.10.04-16.35.24:096][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.35.43:413][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.35.43:413][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.35.54:542][ 80]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.35.55:509][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.35.55:656][ 94]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_179D4C2A1421A621749D4F1ACCC244F10.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.35.57:510][169]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.35.57:601][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.35.57:601][169]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:35:57)
+[2018.10.04-16.35.57:601][169]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.35.57:642][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040303s)
+[2018.10.04-16.35.57:642][169]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.35.57:643][169]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.10.04-16.35.57:643][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.041377s)
+[2018.10.04-16.35.57:693][169]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.35.57:793][169]LogInit: FAudioDevice initialized.
+[2018.10.04-16.35.57:834][169]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.35.57:847][169]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.35.57
+[2018.10.04-16.35.57:856][169]LogWorld: Bringing up level for play took: 0.020320
+[2018.10.04-16.35.57:869][169]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.35.57:872][169]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,847
+[2018.10.04-16.35.59:086][216]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-16.36.05:851][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.36.05:890][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.36.05:979][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.36.06:016][514]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.10.04-16.36.23:400][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.37.12:900][267]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.37.13:782][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.37.13:907][277]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_18BD581334F531ECF36211FB72F4B570E.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.37.19:589][526]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.37.19:672][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.37.19:672][526]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:37:19)
+[2018.10.04-16.37.19:672][526]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.37.19:706][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033912s)
+[2018.10.04-16.37.19:707][526]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.37.19:707][526]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.10.04-16.37.19:708][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.035127s)
+[2018.10.04-16.37.19:770][526]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.37.19:853][526]LogInit: FAudioDevice initialized.
+[2018.10.04-16.37.19:892][526]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.37.19:905][526]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.37.19
+[2018.10.04-16.37.19:914][526]LogWorld: Bringing up level for play took: 0.020993
+[2018.10.04-16.37.19:927][526]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.37.19:974][526]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,95
+[2018.10.04-16.37.25:617][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.37.25:674][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.37.25:733][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.37.25:770][786]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.10.04-16.37.26:874][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.37.30:644][969]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.37.31:642][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.37.31:736][986]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_14978ACB44D3EC0D1892235AA7E2E373F.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.37.49:473][720]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.37.50:318][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.37.50:430][731]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_144AE78F14150EA3AD8DF2098AFD153F6.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.37.53:360][860]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.37.53:447][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.37.53:447][860]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:37:53)
+[2018.10.04-16.37.53:447][860]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.37.53:491][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043971s)
+[2018.10.04-16.37.53:492][860]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.37.53:492][860]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2018.10.04-16.37.53:492][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.045443s)
+[2018.10.04-16.37.53:560][860]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.37.53:681][860]LogInit: FAudioDevice initialized.
+[2018.10.04-16.37.53:724][860]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.37.53:735][860]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.37.53
+[2018.10.04-16.37.53:743][860]LogWorld: Bringing up level for play took: 0.018739
+[2018.10.04-16.37.53:756][860]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.37.53:759][860]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,735
+[2018.10.04-16.37.56:914][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.37.56:964][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.37.57:026][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.37.57:072][999]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.10.04-16.38.04:287][279]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.38.05:043][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.38.05:144][285]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1BEE2A0DC4F49BD406188188D93E451CE.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.38.07:297][393]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.38.07:378][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.38.07:378][393]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:38:07)
+[2018.10.04-16.38.07:378][393]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.38.07:413][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033976s)
+[2018.10.04-16.38.07:421][393]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.38.07:422][393]LogPlayLevel: PIE: World Init took: (0.009654s)
+[2018.10.04-16.38.07:422][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.043910s)
+[2018.10.04-16.38.07:479][393]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.38.07:584][393]LogInit: FAudioDevice initialized.
+[2018.10.04-16.38.07:622][393]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.38.07:641][393]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.38.07
+[2018.10.04-16.38.07:652][393]LogWorld: Bringing up level for play took: 0.029036
+[2018.10.04-16.38.07:667][393]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.38.07:672][393]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,647
+[2018.10.04-16.38.09:677][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.38.09:728][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.38.09:792][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.38.09:837][487]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.10.04-16.38.47:518][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.04-16.38.48:946][ 88]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map_Auto68E5851274E110BE43F1C7CB0968C8BC1.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto6.umap'
+[2018.10.04-16.38.49:016][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ships_map' took 1.881
+[2018.10.04-16.38.49:016][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.881
+[2018.10.04-16.38.57:464][114]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.38.57:465][114]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.39.49:913][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.40.02:867][224]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.40.03:624][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.40.03:713][235]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_109823BEE43FF0557EA514AB3D9AE6FE6.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.40.09:346][480]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.40.10:153][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.40.10:246][492]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1CB1B0DDB4D2F17148C4C6496EF27A361.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.40.26:005][242]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.40.26:006][242]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.41.59:573][332]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.41.59:573][332]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.42.03:537][516]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.42.18:345][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.42.21:778][389]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.42.21:778][389]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-16.42.44:354][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.42.47:238][536]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.42.47:238][536]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.42.47:238][536]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.10.04-16.42.48:804][601]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.42.49:743][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.42.49:841][616]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1C9B5710B43EFD5268D472CBEC06E2894.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.43.10:421][576]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.43.11:168][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.43.11:254][583]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_10F049CE24B923D6E23680F960557C96D.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.44.33:872][ 73]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.44.33:951][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.44.33:952][ 73]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:44:33)
+[2018.10.04-16.44.33:952][ 73]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.44.33:983][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030756s)
+[2018.10.04-16.44.33:984][ 73]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.44.33:984][ 73]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2018.10.04-16.44.33:984][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.031996s)
+[2018.10.04-16.44.34:045][ 73]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.44.34:135][ 73]LogInit: FAudioDevice initialized.
+[2018.10.04-16.44.34:176][ 73]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.44.34:187][ 73]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.44.34
+[2018.10.04-16.44.34:195][ 73]LogWorld: Bringing up level for play took: 0.018338
+[2018.10.04-16.44.34:208][ 73]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.44.34:212][ 73]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,188
+[2018.10.04-16.44.38:099][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.44.38:146][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.44.38:199][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.44.38:255][269]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.10.04-16.44.39:844][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.44.50:428][803]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.44.52:982][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.44.53:070][901]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1F3AA636241B8097146AA9785B56014A0.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.45.54:008][628]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.45.54:932][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.45.57:155][646]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1FB668B0C4F7ACC1BA4F174967AB6C9AF.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.45.59:726][776]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.45.59:809][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.45.59:809][776]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:45:59)
+[2018.10.04-16.45.59:809][776]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.45.59:842][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032748s)
+[2018.10.04-16.45.59:843][776]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.45.59:843][776]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.10.04-16.45.59:843][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.033702s)
+[2018.10.04-16.45.59:904][776]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.45.59:984][776]LogInit: FAudioDevice initialized.
+[2018.10.04-16.46.00:020][776]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.46.00:031][776]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.46.00
+[2018.10.04-16.46.00:038][776]LogWorld: Bringing up level for play took: 0.016896
+[2018.10.04-16.46.00:051][776]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.46.00:055][776]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,031
+[2018.10.04-16.46.01:444][846]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-16.46.08:321][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.46.08:368][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.46.08:410][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.46.08:455][197]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.10.04-16.46.15:056][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.46.41:255][651]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.46.41:995][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.46.42:083][659]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_10DF1FAC541A230BF5D801FB394EF86F4.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.46.44:380][772]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.46.44:458][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.46.44:459][772]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:46:44)
+[2018.10.04-16.46.44:459][772]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.46.44:493][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034269s)
+[2018.10.04-16.46.44:494][772]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.46.44:494][772]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2018.10.04-16.46.44:495][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.035677s)
+[2018.10.04-16.46.44:550][772]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.46.44:642][772]LogInit: FAudioDevice initialized.
+[2018.10.04-16.46.44:679][772]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.46.44:692][772]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.46.44
+[2018.10.04-16.46.44:699][772]LogWorld: Bringing up level for play took: 0.019383
+[2018.10.04-16.46.44:711][772]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.46.44:714][772]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,31
+[2018.10.04-16.46.45:255][797]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-16.46.51:751][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.46.51:791][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.46.51:847][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.46.51:886][138]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.10.04-16.46.53:408][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.47.01:152][548]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.47.01:944][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.47.02:039][559]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_11059D9704F442776526042ADAD60263A.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.47.04:142][669]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.47.04:213][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.47.04:213][669]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:47:04)
+[2018.10.04-16.47.04:213][669]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.47.04:254][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041274s)
+[2018.10.04-16.47.04:255][669]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.47.04:256][669]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2018.10.04-16.47.04:256][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.042555s)
+[2018.10.04-16.47.04:314][669]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.47.04:404][669]LogInit: FAudioDevice initialized.
+[2018.10.04-16.47.04:441][669]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.47.04:452][669]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.47.04
+[2018.10.04-16.47.04:460][669]LogWorld: Bringing up level for play took: 0.017714
+[2018.10.04-16.47.04:472][669]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.47.04:476][669]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,548
+[2018.10.04-16.47.07:534][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.47.07:584][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.47.07:645][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.47.07:691][833]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.10.04-16.47.09:887][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.47.15:975][180]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.47.25:163][592]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.47.25:938][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.47.26:026][604]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_12669406848DC16664DEAB6B399B6E589.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.48.30:809][461]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.48.31:547][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.48.33:843][468]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1FA819397448C593124A515AF9AA036C6.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.48.59:819][667]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.49.04:545][904]LogEditorViewport: Clicking on Actor (LMB): trigger_C (trigger)
+[2018.10.04-16.49.05:311][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.49.08:381][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.49.10:282][198]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/anim/ships/trigger.trigger
+[2018.10.04-16.49.22:842][721]BlueprintLog: New page: Compile trigger
+[2018.10.04-16.49.25:609][830]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.49.25:672][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.49.25:673][830]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:49:25)
+[2018.10.04-16.49.25:673][830]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.49.25:706][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032769s)
+[2018.10.04-16.49.25:707][830]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.49.25:707][830]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.10.04-16.49.25:707][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.034425s)
+[2018.10.04-16.49.25:760][830]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.49.25:858][830]LogInit: FAudioDevice initialized.
+[2018.10.04-16.49.25:890][830]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.49.25:903][830]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.49.25
+[2018.10.04-16.49.25:910][830]LogWorld: Bringing up level for play took: 0.018643
+[2018.10.04-16.49.25:922][830]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.49.25:926][830]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,902
+[2018.10.04-16.49.26:350][848]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-16.49.33:428][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.49.33:481][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.49.33:536][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.49.33:604][196]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2018.10.04-16.49.34:508][239]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.49.38:673][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.49.49:236][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.49.49:285][780]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.49.52:886][901]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.49.52:952][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.49.52:952][901]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:49:52)
+[2018.10.04-16.49.52:952][901]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.49.52:984][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031001s)
+[2018.10.04-16.49.52:984][901]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.49.52:985][901]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.10.04-16.49.52:985][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.032303s)
+[2018.10.04-16.49.53:055][901]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.49.53:150][901]LogInit: FAudioDevice initialized.
+[2018.10.04-16.49.53:188][901]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.49.53:201][901]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.49.53
+[2018.10.04-16.49.53:208][901]LogWorld: Bringing up level for play took: 0.019393
+[2018.10.04-16.49.53:222][901]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.49.53:229][901]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,204
+[2018.10.04-16.50.02:538][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.50.02:586][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.50.02:651][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.50.02:701][384]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.10.04-16.50.03:402][413]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.50.05:920][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.50.06:701][558]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.50.06:759][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.50.06:760][558]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:50:06)
+[2018.10.04-16.50.06:760][558]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.50.06:790][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031005s)
+[2018.10.04-16.50.06:795][558]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.50.06:796][558]LogPlayLevel: PIE: World Init took: (0.005513s)
+[2018.10.04-16.50.06:796][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.036837s)
+[2018.10.04-16.50.06:854][558]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.50.06:954][558]LogInit: FAudioDevice initialized.
+[2018.10.04-16.50.06:956][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.50.06:993][558]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.50.07:007][558]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.50.07
+[2018.10.04-16.50.07:014][558]LogWorld: Bringing up level for play took: 0.019551
+[2018.10.04-16.50.07:028][558]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.50.07:031][558]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,007
+[2018.10.04-16.50.12:712][858]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.10.04-16.50.12:712][858]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/anim/NPC/ships/Bosss/first_boss/Boss_1.Boss_1_C:BndEvt__Cube_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.10.04-16.50.15:744][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.50.17:813][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.50.17:873][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.50.17:933][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.50.18:040][859]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2018.10.04-16.50.22:478][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.50.23:281][118]LogTemp: Repeating last play command: Simulate
+[2018.10.04-16.50.23:339][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.50.23:339][118]PIE: New page: SIE session: ships_map (5 окт. 2018 г., 6:50:23)
+[2018.10.04-16.50.23:340][118]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.50.23:373][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032792s)
+[2018.10.04-16.50.23:373][118]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.50.23:374][118]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2018.10.04-16.50.23:374][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.034137s)
+[2018.10.04-16.50.23:459][118]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.50.23:541][118]LogInit: FAudioDevice initialized.
+[2018.10.04-16.50.23:541][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.50.23:576][118]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.50.23:587][118]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.50.23
+[2018.10.04-16.50.23:595][118]LogWorld: Bringing up level for play took: 0.018560
+[2018.10.04-16.50.23:607][118]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.04-16.50.23:611][118]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 0,586
+[2018.10.04-16.50.24:180][141]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-16.50.39:225][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.50.39:293][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.50.39:353][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.50.39:390][920]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2018.10.04-16.50.41:053][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.53.32:224][507]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.53.33:172][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.53.33:216][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.53.33:364][524]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_106D55C4443A65F642887F4BC67E8AE6C.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.53.33:861][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.53.35:724][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.53.39:908][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.53.39:908][858]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:53:39)
+[2018.10.04-16.53.39:908][858]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.53.39:944][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035978s)
+[2018.10.04-16.53.39:945][858]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.53.39:945][858]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.10.04-16.53.39:945][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.037114s)
+[2018.10.04-16.53.40:001][858]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.53.40:097][858]LogInit: FAudioDevice initialized.
+[2018.10.04-16.53.40:101][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.53.40:110][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.53.40:205][858]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.53.40:217][858]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.53.40
+[2018.10.04-16.53.40:226][858]LogWorld: Bringing up level for play took: 0.019998
+[2018.10.04-16.53.40:249][858]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,225
+[2018.10.04-16.53.58:430][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.53.58:492][759]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.53.58:547][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.53.58:645][760]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.10.04-16.54.02:224][961]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.54.04:618][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.54.09:943][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.54.10:029][224]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.54.10:954][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.54.10:991][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.54.11:106][229]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1505E633A451E4A1E9B88CB9BB7B00FBF.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.54.14:070][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.54.15:189][383]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.54.16:037][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.54.16:072][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.54.16:173][385]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_11362B1AF4F181CB583AC9187F501B636.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.54.17:024][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.54.20:607][598]Cmd: TRANSACTION UNDO
+[2018.10.04-16.54.20:607][598]LogEditorTransaction: Undo Move Actors
+[2018.10.04-16.54.20:665][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-16.54.21:030][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-16.54.28:869][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.54.33:292][ 90]BlueprintLog: New page: Compile trigger
+[2018.10.04-16.54.35:425][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.54.36:253][211]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.54.36:328][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.54.36:329][211]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:54:36)
+[2018.10.04-16.54.36:329][211]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.54.36:359][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029690s)
+[2018.10.04-16.54.36:360][211]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.54.36:360][211]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2018.10.04-16.54.36:360][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.031128s)
+[2018.10.04-16.54.36:426][211]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.54.36:513][211]LogInit: FAudioDevice initialized.
+[2018.10.04-16.54.36:516][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.54.36:522][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.54.36:622][211]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.54.36:634][211]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.54.36
+[2018.10.04-16.54.36:642][211]LogWorld: Bringing up level for play took: 0.019011
+[2018.10.04-16.54.36:668][211]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,357
+[2018.10.04-16.54.45:330][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.54.45:384][643]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.54.45:446][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.54.45:534][644]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.10.04-16.54.46:445][697]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-16.54.49:495][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.54.50:270][887]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.54.50:328][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.54.50:329][887]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:54:50)
+[2018.10.04-16.54.50:329][887]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.54.50:365][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036788s)
+[2018.10.04-16.54.50:365][887]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.54.50:365][887]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.10.04-16.54.50:365][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.037687s)
+[2018.10.04-16.54.50:428][887]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.54.50:516][887]LogInit: FAudioDevice initialized.
+[2018.10.04-16.54.50:522][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.54.50:528][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.54.50:623][887]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.54.50:633][887]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.54.50
+[2018.10.04-16.54.50:644][887]LogWorld: Bringing up level for play took: 0.019923
+[2018.10.04-16.54.50:666][887]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map -0,359
+[2018.10.04-16.55.01:922][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.55.01:974][440]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.55.02:031][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.55.02:126][441]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.10.04-16.55.04:748][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.55.12:902][903]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.55.13:656][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.55.13:691][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.55.13:793][910]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_12C6CEEB54C6A8F161356E9AB0087E505.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.55.14:589][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.55.20:592][225]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-16.55.21:257][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.55.21:295][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-16.55.21:402][227]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1B4BA920647CAC4DA5CDF57A968740740.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-16.55.22:001][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-16.55.22:951][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.55.23:779][349]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-16.55.23:853][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-16.55.23:854][349]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 6:55:23)
+[2018.10.04-16.55.23:854][349]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-16.55.23:884][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030398s)
+[2018.10.04-16.55.23:885][349]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-16.55.23:886][349]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2018.10.04-16.55.23:886][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.032045s)
+[2018.10.04-16.55.23:956][349]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-16.55.24:029][349]LogInit: FAudioDevice initialized.
+[2018.10.04-16.55.24:033][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-16.55.24:038][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.55.24:130][349]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-16.55.24:142][349]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.04-23.55.24
+[2018.10.04-16.55.24:152][349]LogWorld: Bringing up level for play took: 0.020735
+[2018.10.04-16.55.24:174][349]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,149
+[2018.10.04-16.55.44:004][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-16.55.44:063][368]LogSlate: Window 'First_person_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.04-16.55.44:123][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-16.55.44:216][369]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2018.10.04-16.56.12:140][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ships_map" FILE="../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.04-16.56.12:928][646]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/ships_map_Auto7D27FBE934E8900AF22B85ABC79472F5D.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/ships_map_Auto7.umap'
+[2018.10.04-16.56.12:991][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ships_map' took 0.959
+[2018.10.04-16.56.12:991][646]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.959
+[2018.10.04-16.56.13:002][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/anim/ships/trigger] ([1] browsable assets)...
+[2018.10.04-16.56.13:003][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/anim/ships/trigger]
+[2018.10.04-16.56.13:003][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/ships/trigger" FILE="../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/ships/trigger_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.10.04-16.56.13:061][646]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/trigger_Auto74EC6D2384D29A38A2B38DBA93AA7B7D8.tmp' to '../../../../../../Unreal Projects/First_person_test/Saved/Autosaves/Game/anim/ships/trigger_Auto7.uasset'
+[2018.10.04-16.56.13:062][646]LogFileHelpers: Auto-saving content packages took 0.061
+[2018.10.04-16.57.07:450][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-17.00.17:439][311]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-17.02.22:436][836]LogEditorViewport: Clicking on Actor (LMB): Boss_1_C (Boss_1)
+[2018.10.04-17.02.33:565][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-17.02.36:090][543]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.04-17.02.36:858][582]Cmd: TRANSACTION UNDO
+[2018.10.04-17.02.36:858][582]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.04-17.02.36:932][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-17.02.37:270][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-17.02.39:066][665]Cmd: TRANSACTION UNDO
+[2018.10.04-17.02.39:066][665]LogEditorTransaction: Undo Move Actors
+[2018.10.04-17.02.39:075][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-17.02.39:461][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-17.02.41:501][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-17.02.58:064][375]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-17.02.59:021][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-17.02.59:062][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-17.02.59:255][376]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1A62265554B848D1ADCE4108D4F70F8D2.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-17.03.00:028][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-17.04.18:752][320]Cmd: TRANSACTION UNDO
+[2018.10.04-17.04.18:752][320]LogEditorTransaction: Undo Move Actors
+[2018.10.04-17.04.18:757][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-17.04.19:075][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.04-17.04.21:229][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-17.04.34:885][857]BlueprintLog: New page: Compile Boss_1
+[2018.10.04-17.04.36:093][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-17.04.36:136][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/NPC/ships/Bosss/first_boss/Boss_1" FILE="../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset" SILENT=true
+[2018.10.04-17.04.36:289][864]LogSavePackage: Moving '../../../../../../Unreal Projects/First_person_test/Saved/Boss_1262819384EB8052F57D0A48E276191B1.tmp' to '../../../../../../Unreal Projects/First_person_test/Content/anim/NPC/ships/Bosss/first_boss/Boss_1.uasset'
+[2018.10.04-17.04.37:572][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-17.04.43:099][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-17.04.43:904][127]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.04-17.04.44:052][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-17.04.44:052][127]PIE: New page: PIE session: ships_map (5 окт. 2018 г., 7:04:44)
+[2018.10.04-17.04.44:053][127]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ships_map
+[2018.10.04-17.04.44:088][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035104s)
+[2018.10.04-17.04.44:089][127]LogAIModule: Creating AISystem for world ships_map
+[2018.10.04-17.04.44:090][127]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2018.10.04-17.04.44:090][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ships_map.ships_map to /Game/UEDPIE_0_ships_map.ships_map (0.037142s)
+[2018.10.04-17.04.44:153][127]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.04-17.04.44:218][127]LogInit: FAudioDevice initialized.
+[2018.10.04-17.04.44:221][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-17.04.44:230][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-17.04.44:322][127]LogLoad: Game class is 'GameModeBase'
+[2018.10.04-17.04.44:336][127]LogWorld: Bringing World /Game/UEDPIE_0_ships_map.ships_map up for play (max tick rate 60) at 2018.10.05-00.04.44
+[2018.10.04-17.04.44:345][127]LogWorld: Bringing up level for play took: 0.022076
+[2018.10.04-17.04.44:369][127]PIE: Play in editor start time for /Game/UEDPIE_0_ships_map 1,345
